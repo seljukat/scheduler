@@ -3,7 +3,7 @@
 <h1>Scheduler</h1>
 <p>A basic scheduler application that organizes your timetable by generating alternative schedules based on your course selections.</p>
 
-<h4> <a href=https://courscheduler.netlify.app/>View Demo</a> <span> · </span> <a href="https://github.com/seljukat/scheduler/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/seljukat/scheduler/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/seljukat/scheduler/issues"> Request Feature </a> </h4>
+<h4> ----- <a href=https://courscheduler.netlify.app/>View Demo</a> <span> ----- </h4>
 
 
 </div>
