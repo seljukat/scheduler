@@ -3,7 +3,9 @@
 <h1>Scheduler</h1>
 <p>A basic scheduler application that organizes your timetable by generating alternative schedules based on your course selections.</p>
 
+
 <h4> ----- <a href=https://courscheduler.netlify.app/>View Demo</a> <span> ----- </h4>
+
 
 Note that your data should have the following properties and their values in below format for the app to generate schedules (if not, you can adjust the code according to your needs to make the app work with your data):
 
