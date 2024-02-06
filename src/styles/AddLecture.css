@@ -1,0 +1,362 @@
+.query-bar {
+    position: relative;
+    margin-top: 30px;
+    margin-inline: auto;
+    width: 300px;
+    max-width: 300px;
+    border-radius: 30px;
+    margin: 40px 30px 10px;
+}
+
+.query-bar .input {
+    font-size: 20px;
+    width: 175px;
+    padding: 8px 0;
+    margin-left: -20px;
+    margin-right: 20PX;
+    color: #333;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    transition: border-color 250ms;
+    background-color: transparent;
+
+    &:focus {
+        outline: none;
+        border-bottom-color: #777;
+    }
+
+    &::placeholder {
+        color: transparent;
+    }
+
+    &::-webkit-contacts-auto-fill-button {
+        visibility: hidden;
+        pointer-events: none;
+        position: absolute;
+    }
+
+    cursor: auto;
+    caret-color: auto;
+}
+
+.query-format {
+    font-size: 12px;
+    width: 100%;
+    color: #43454e;
+    border: none;
+}
+
+.query-bar .query-format-alt {
+    margin-bottom: 10px;
+}
+
+.query-bar .query-format-heading {
+    margin-top: 10px;
+}
+
+.label {
+    font-size: 20px;
+    position: absolute;
+    top: 8px;
+    left: 0;
+    color: #43454e;
+    pointer-events: none;
+    transform-origin: left center;
+    transition: transform 250ms;
+    font-family: "Iowan Old Style", "Palatino Linotype", "URW Palladio L", P052,
+        serif;
+}
+
+.input:focus+.label,
+.input:not(:placeholder-shown)+.label {
+    transform: translateY(-100%) scale(0.75);
+}
+
+.clear {
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    position: absolute;
+    top: 50%;
+    right: -9px;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    color: #777;
+    transition: color 250ms;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &:hover,
+    &:focus {
+        color: #333;
+    }
+}
+
+.input:placeholder-shown+.label+.clear {
+    display: none;
+}
+
+.divide-y.divide-gray-200 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    column-gap: 20px;
+    row-gap: 10px;
+}
+
+.LectureInfo.main-grid-item {
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 110px;
+    height: 100px;
+    margin-left: -15px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 5px solid #EADDCA;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.LectureInfo.main-grid-item:hover {
+    transform: translateY(-0.25em);
+}
+
+.lectures li {
+    list-style-type: none;
+}
+
+.lectures h1 {
+    width: fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    background-color: #EADDCA;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+
+
+.scheduler-search-section {
+    width: fit-content;
+    background-color: white;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.scheduler-gap-section {
+    height: 20px;
+}
+
+.scheduler-lectures-section {
+    width: 380px;
+    max-width: 380px;
+    height: 300px;
+    max-height: 300px;
+    background-color: white;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.scheduler-main-heading {
+    width: fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    background-color: #EADDCA;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-bottom: -15px;
+    margin-left: 10px;
+}
+
+.upload-file {
+    width: fit-content;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 23px;
+    margin-bottom: -25px;
+}
+
+.upload-file input {
+    width: 200px;
+}
+
+.right-arrow {
+    margin-right: 20px;
+}
+
+.upload-file button,
+.query-bar button {
+    width: 60px;
+    background-color: #EADDCA;
+    border: 4px solid white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.upload-file button:hover,
+.query-bar button:hover {
+    background-color: white;
+    border: 4px solid #EADDCA;
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+}
+
+.upload-file button:active,
+.query-bar button:active {
+    transform: translateY(2px);
+}
+
+.devs {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    width: 380px;
+    max-width: 380px;
+    font-size: 20px;
+    margin-top: 7px;
+}
+
+.dev {
+    box-sizing: content-box;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.devs .dev-container,
+.devs .link {
+    margin-bottom: 2%;
+}
+
+.dev-container,
+.dev-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dev-link {
+    text-decoration: none;
+    color: white;
+}
+
+.dev-a-link:hover {
+    color: black;
+}
+
+.dev-link .top,
+.dev-link .top svg,
+.dev-link .top path {
+    cursor: pointer;
+}
+
+.dev-a-link,
+.dev-a-link svg,
+.dev-a-link path {
+    cursor: auto;
+}
+
+.scheduler-main-heading {
+    margin-bottom: -20px;
+}
+
+
+.devs .tooltip {
+    display: inline-block;
+    position: relative;
+    text-align: left;
+}
+
+.devs .tooltip .top {
+    top: -10px;
+    left: 50%;
+    transform: translate(-50%, -100%);
+    padding: 10px 20px;
+    color: #000000;
+    background-color: #EADDCA;
+    font-weight: normal;
+    font-size: 13px;
+    border-radius: 8px;
+    position: absolute;
+    z-index: 99999999;
+    box-sizing: border-box;
+    border: 5px solid black;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.8s;
+
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.devs .dev-name,
+.devs div a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.devs .dev-name {
+    height: 40px;
+    border: 2px dashed black;
+}
+
+.devs div a {
+    font-size: 30px;
+}
+
+.devs .top div {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.devs .tooltip:hover .top {
+    visibility: visible;
+    opacity: 1;
+}
+
+.devs .tooltip .top i {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -20px;
+    width: 40px;
+    height: 20px;
+    overflow: hidden;
+}
+
+.devs .tooltip .top i::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(45deg);
+    background-color: #EADDCA;
+    border: 5px solid black;
+}
+
+.devs a:hover {
+    color: black;
+}
+
+.devs a:active {
+    color: white;
+}
