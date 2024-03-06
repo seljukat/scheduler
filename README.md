@@ -25,6 +25,8 @@ Note that the data in your .xls or .xlsx file should have the following properti
 
 </div>
 
+You can use the sample data in the root directory to observe the features of the application.
+
 ### :triangular_flag_on_post: Live Demo
 
 Current version running at: https://courscheduler.netlify.app/
