@@ -23,7 +23,6 @@ export const useSchedulerStore = defineStore('scheduler', () => {
   }
 
   function setAlternativeSchedules(data) {
-    alternativeSchedules.value = []
     alternativeSchedules.value = data
   }
 
