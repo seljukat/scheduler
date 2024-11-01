@@ -200,6 +200,7 @@ function handleButtonClick(index) {
   display: flex;
   gap: 0.25rem;
 }
+
 .schedule-container .buttons {
   margin-top: -0.375rem;
   margin-bottom: 0.25rem;
@@ -209,9 +210,10 @@ function handleButtonClick(index) {
   height: 1.5rem;
   font-size: 1.5rem;
   border-radius: 50%;
-  background-color: #eaddca;
-  color: white;
-  border: 1px solid white;
+  border: 2px solid #eaddca;
+  /* background-color: #eaddca; */
+  background-color: #ffffff;
+  color: #eaddca;
   cursor: pointer;
   display: flex;
   justify-content: center;
@@ -219,6 +221,29 @@ function handleButtonClick(index) {
   -webkit-user-select: none; /* Safari */
   -ms-user-select: none; /* IE 10 and IE 11 */
   user-select: none; /* Standard syntax */
+  cursor: pointer;
+
+  padding: 0.875rem;
+  box-shadow:
+    rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.schedule-container .middle-buttons .button {
+  font-size: 1rem;
+}
+.schedule-container .middle-buttons .button .button-content {
+  margin-top: 0;
+}
+.schedule-container .button:hover {
+  border: 2px solid #ffffff;
+  /* background-color: #ffffff; */
+  background-color: #eaddca;
+  color: white;
+}
+.schedule-container .button:active {
+  transform: translateY(1px);
 }
 
 .schedule-container .button.go-to-first-page,
@@ -241,11 +266,11 @@ function handleButtonClick(index) {
   margin-right: -0.125rem;
 }
 
-.schedule-container .button:hover {
+/* .schedule-container .button:hover {
   background-color: white;
   color: #eaddca;
   border: 1px solid #eaddca;
-}
+} */
 
 /* .schedule-container .buttons {
   position: absolute;
