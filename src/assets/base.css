@@ -9,6 +9,15 @@
   caret-color: transparent; */
 }
 
+.scheduler-grid-outer-outer-container,
+.developer-container .dev .text,
+.courses-container,
+.upload-container h1,
+.upload-container .selected-courses {
+  cursor: default;
+  caret-color: transparent;
+}
+
 body {
   height: 100vh;
   width: 100vw;
