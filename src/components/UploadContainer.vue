@@ -45,8 +45,6 @@ async function handleFileUpload(event) {
 function handleApply() {
   if (!selectedCourseCodes.value.length) return
 
-  schedulerStore.setAlternativeSchedules([])
-
   const codes = selectedCourseCodes.value.map((course, index) => ({
     code: course,
     bgColor: bgColors[index % bgColors.length], // Cycle through bgColors if there are more codes
