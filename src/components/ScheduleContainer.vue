@@ -21,14 +21,120 @@ function handlePrev() {
     schedulerStore.setCurrentPage(schedulerStore.currentPage - 1)
   }
 }
+
+function handleButtonClick(index) {
+  if (index === -2) {
+    schedulerStore.setCurrentPage(0)
+  } else if (index === -1) {
+    schedulerStore.setCurrentPage(
+      schedulerStore.alternativeSchedules.length - 1,
+    )
+  } else {
+    schedulerStore.setCurrentPage(index)
+  }
+}
 </script>
 
 <template>
   <div class="schedule-container">
-    <div class="buttons">
-      <button @click="handlePrev">Prev</button>
-      <button @click="handleNext">Next</button>
+    <!-- <div class="buttons-container"> -->
+    <div
+      class="buttons"
+      v-if="
+        schedulerStore.alternativeSchedules &&
+        schedulerStore.alternativeSchedules[0] &&
+        schedulerStore.alternativeSchedules[schedulerStore.currentPage]
+          .outerHTML
+      "
+    >
+      <div
+        class="button go-to-first-page"
+        @click="handleButtonClick(-2)"
+        :aria-disabled="
+          schedulerStore.currentPage === 0 ||
+          schedulerStore.alternativeSchedules.length === 1
+        "
+      >
+        <div class="button-content go-to-first-page">
+          {{ '<<' }}
+        </div>
+      </div>
+      <div
+        class="button prev"
+        @click="handlePrev"
+        :aria-disabled="
+          schedulerStore.currentPage === 0 ||
+          schedulerStore.alternativeSchedules.length === 1
+        "
+      >
+        <div class="button-content prev">
+          {{ '<' }}
+        </div>
+      </div>
+      <div
+        class="middle-buttons"
+        v-if="schedulerStore.alternativeSchedules.length > 0"
+      >
+        <div
+          v-for="(
+            alternativeSchedule, index
+          ) in schedulerStore.alternativeSchedules"
+          :key="index"
+        >
+          <div
+            class="button"
+            @click="handleButtonClick(index)"
+            :aria-disabled="schedulerStore.currentPage === index"
+          >
+            <div class="button-content">
+              {{ index + 1 }}
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- <div v-if="schedulerStore.alternativeSchedules.length === 1">
+        <div
+          class="button"
+          @click="handleButtonClick"
+          :aria-disabled="
+            schedulerStore.currentPage === 0 ||
+            schedulerStore.alternativeSchedules.length === 1
+          "
+        >
+          <div class="button-content prev">
+            {{ schedulerStore.alternativeSchedules.length }}
+          </div>
+        </div>
+      </div> -->
+      <!-- <div v-else-if="schedulerStore.alternativeSchedules.length > 1"></div> -->
+      <div
+        class="button next"
+        @click="handleNext"
+        :aria-disabled="
+          schedulerStore.currentPage ===
+            schedulerStore.alternativeSchedules.length - 1 ||
+          schedulerStore.alternativeSchedules.length === 1
+        "
+      >
+        <div class="button-content next">
+          {{ '>' }}
+        </div>
+      </div>
+      <div
+        class="button go-to-last-page"
+        @click="handleButtonClick(-1)"
+        :aria-disabled="
+          schedulerStore.currentPage ===
+            schedulerStore.alternativeSchedules.length - 1 ||
+          schedulerStore.alternativeSchedules.length === 1
+        "
+      >
+        <div class="button-content go-to-last-page">
+          {{ '>>' }}
+        </div>
+      </div>
     </div>
+    <!-- </div> -->
     <!-- <div v-if="schedulerStore.alternativeSchedules">
       <div
         v-if="schedulerStore.alternativeSchedules[schedulerStore.currentPage]"
@@ -83,6 +189,62 @@ function handlePrev() {
   align-items: center;
   position: relative;
   padding: 0.75rem;
+}
+
+/* .schedule-container .buttons-container {
+  display: flex;
+} */
+
+.schedule-container .buttons,
+.schedule-container .middle-buttons {
+  display: flex;
+  gap: 0.25rem;
+}
+.schedule-container .buttons {
+  margin-top: -0.375rem;
+  margin-bottom: 0.25rem;
+}
+.schedule-container .button {
+  width: 1.5rem;
+  height: 1.5rem;
+  font-size: 1.5rem;
+  border-radius: 50%;
+  background-color: #eaddca;
+  color: white;
+  border: 1px solid white;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
+
+.schedule-container .button.go-to-first-page,
+.schedule-container .button.go-to-last-page {
+  width: 2.5rem;
+  height: 1.5rem;
+  font-size: 1.5rem;
+  border-radius: 30px;
+}
+
+.schedule-container .button-content {
+  margin-top: -0.25rem;
+}
+
+.schedule-container .button-content.prev {
+  margin-left: -0.125rem;
+}
+
+.schedule-container .button-content.next {
+  margin-right: -0.125rem;
+}
+
+.schedule-container .button:hover {
+  background-color: white;
+  color: #eaddca;
+  border: 1px solid #eaddca;
 }
 
 /* .schedule-container .buttons {
