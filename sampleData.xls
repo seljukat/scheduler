@@ -1,0 +1,790 @@
+Year	Period	Code	Name	Section	Dept.	T	P	L	Cr	ECTS	Category	Lecturer	Room	Schedule	# of Students	Successfull	Unsuccessfull	Conditional	Withdrawn	Average	Staff ID
+2023	2	ADA 407	Data Science for Social Scientists	ADA 407_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	6	Course	Godfrey Warbler 	G009	Tu 14 - 17	0						5032
+2023	2	ADA 423	Statistical Inference Methods with Appli	ADA 423_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	6	Course	Godfrey Warbler 	A435	Th 16 - 19	0						5032
+2023	2	ADA 440	Python for Data Science	ADA 440_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Poly Gone 	H007/009-PC	Mo 14 - 17	0						891
+2023	2	ADA 442	Statistical Learning	ADA 442_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	6	Course	Desmond Eagle	DB18	Fr 14 - 17	0						4212
+2023	2	ADA 449	Numerical Methods for Data Science	ADA 449_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Poly Gone 	H007/009-PC	Th 13 - 16	0						891
+2023	2	ARCH 102	Introduction to Architectural Design	ARCH 102_01	Department of Architecture	2	8	0	6	10	Course	Desmond Eagle		Tu 13 - 15 Tu 09 - 12 Fr 13 - 15 Fr 09 - 12	0						" 00000270 , 00000017 , 00003943 (S) , 00001047 , 00005661 (S) "
+2023	2	ARCH 112	Architectural Communication Techniques I	ARCH 112_01	Department of Architecture	2	2	0	3	6	Course	Desmond Eagle		Th 09 - 13	0						" 00000003 , 00001046 "
+2023	2	ARCH 112-O	Architectural Communication Tech II	ARCH 112-O_1	Department of Architecture	2	2	0	3	5	Course	Godfrey Warbler 		Th 09 - 13	0						" 00001046 , 00000003 "
+2023	2	ARCH 202	Architectural Design II	ARCH 202_01	Department of Architecture	2	8	0	6	11	Course	Godfrey Warbler 		Tu 09 - 12 Tu 13 - 15 Fr 13 - 15 Fr 09 - 12	0						" 00003945 (S) , 00000011 , 00001878 , 00004828 (S) , 00000885 "
+2023	2	ARCH 222	History of Architecture II	ARCH 222_01	Department of Architecture	3	0	0	3	5	Course	Godfrey Warbler 		We 09 - 12	0						1047
+2023	2	ARCH 222-O	History of Architecture II	ARCH 222-O_1	Department of Architecture	2	1	0	2	5	Course	Godfrey Warbler 	K084	We 09 - 12	0						1047
+2023	2	ARCH 302-O	Architectural Design IV	ARCH 302-O_1	Department of Architecture	2	8	0	6	11	Course	Godfrey Warbler 		Tu 13 - 15 Tu 09 - 12 Fr 13 - 15 Fr 09 - 12	0						" 00000503 (S) , 00004835 , 00001374 , 00003944 (S) , 00000003 "
+2023	2	ARCH 322	Issues in Contemporary Architecture	ARCH 322_01	Department of Architecture	3	0	0	3	5	Course	Desmond Eagle	F117	We 09 - 12	0						360
+2023	2	ARCH 372-O	Building Technologies in Architecture	ARCH 372-O_1	Department of Architecture	3	0	0	3	5	Course	Desmond Eagle	K084	Mo 09 - 12	0						885
+2023	2	ARCH 399-O	Summer Practice I_Construction Site	ARCH 399-O_1	Department of Architecture	0	0	0	0	2	Internship	Godfrey Warbler 		Fr 19 - 20	0						1047
+2023	2	ARCH 402	Architectural Design VI	ARCH 402_01	Department of Architecture	2	8	0	6	12	Course	Desmond Eagle		Tu 13 - 15 Tu 09 - 12 Fr 09 - 12 Fr 13 - 15	0						" 00001473 (S) , 00001046 , 00000502 (S) , 00000328 , 00000014 "
+2023	2	ARCH 434	Parametric Design Thinking	ARCH 434_01	Department of Architecture	3	0	0	3	5	Course	Desmond Eagle	F214	We 09 - 12	0						270
+2023	2	ARCH 462-O	Profession and Practice	ARCH 462-O_1	Department of Architecture	1	0	0	1	2	Course	Desmond Eagle	D030	Mo 12 - 13	0						328
+2023	2	ARCH 472	Architecture of Display	ARCH 472_01	Department of Architecture	3	0	0	3	5	Course	Sue Shei	F212	Th 09 - 12	0						1374
+2023	2	ARCH 482	Ideology and Space	ARCH 482_01	Department of Architecture	3	0	0	3	5	Course	Sue Shei	F115	Mo 14 - 17	0						4835
+2023	2	ARCH 484	Architecture of Urban Form Through Histo	ARCH 484_01	Department of Architecture	3	0	0	3	5	Course	Sue Shei	F214	Mo 14 - 17	0						863
+2023	2	ARCH 499-O	Summer Practice II_Architectural Office	ARCH 499-O_1	Department of Architecture	0	0	0	0	2	Internship	Sue Shei		Fr 20 - 21	0						1046
+2023	2	ART 100	Visual Arts and Aesthetics	ART 100_01	Basic Sciences	3	0	0	3	5	Course	Sue Shei	D030	Th 16 - 19	0						 00005687 (S) 
+2023	2	ART 150	Understanding Music	ART 150_01	Basic Sciences	3	0	0	3	5	Course	Sue Shei	DB16	We 15 - 18	0						 00004815 (S) 
+2023	2	BA 110	Critical Skills and Business: Discovery	BA 110_01	Department of Business Administration	3	0	0	3	6	Course	Sue Shei	G113	Th 14 - 17	0						 00004090 (S) 
+2023	2	BA 110	Critical Skills and Business: Discovery	BA 110_02	Department of Business Administration	3	0	0	3	6	Course	Sue Shei	G105	Fr 16 - 19	0						 00004090 (S) 
+2023	2	BA 202	Management Science	BA 202_01	Department of Business Administration	3	0	0	3	6	Course		D032	We 09 - 12	0						
+2023	2	BA 203	Principles of Financial Accounting	BA 203_01	Department of Business Administration	3	0	0	3	6	Course	Sue Shei	G113	Fr 11 - 14	0						5038
+2023	2	BA 204	Organizational Behavior	BA 204_01	Department of Business Administration	3	0	0	3	6	Course	Sue Shei	G213	Tu 09 - 12	0						3102
+2023	2	BA 204	Organizational Behavior	BA 204_02	Department of Business Administration	3	0	0	3	6	Course	Sue Shei	G208	Fr 11 - 14	0						3102
+2023	2	BA 220	Fundamentals of Entrepreneurship	BA 220_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G108	Fr 15 - 18	0						308
+2023	2	BA 300	Summer Practice  I	BA 300_01	Department of Business Administration	1	0	0	1	2	Internship	Will Barrow		Fr 18 - 19	0						1340
+2023	2	BA 301	Principles of Marketing	BA 301_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G006	Th 11 - 14	0						481
+2023	2	BA 302	Business Law	BA 302_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	GB05	Tu 12 - 15	0						279
+2023	2	BA 303	Managerial Accounting	BA 303_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G003	Mo 11 - 14	0						864
+2023	2	BA 304	Corporate Finance	BA 304_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G205	We 15 - 18	0						864
+2023	2	BA 307	Foundations of Finance	BA 307_01	Department of Business Administration	3	0	0	3	6	Course	Sue Shei	G208	We 15 - 18	0						5038
+2023	2	BA 308	Financial Management	BA 308_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G113	Tu 12 - 15	0						5530
+2023	2	BA 322	New Enterprises	BA 322_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G213	Fr 11 - 14	0						308
+2023	2	BA 400-O	Summer Practice II	BA 400-O_01	Department of Business Administration	1	0	0	1	2	Internship	Will Barrow		Fr 19 - 20	0						1340
+2023	2	BA 401-O	Research Methods	BA 401-O_01	Department of Business Administration	3	0	0	3	7	Course	Sue Shei	G005	We 09 - 12	0						3102
+2023	2	BA 402	Senior Project and Seminar	BA 402_01	Department of Business Administration	3	0	0	3	7	Course	Sue Shei	G112	Fr 12 - 15	0						 00004090 (S) 
+2023	2	BA 410	Independent Research	BA 410_01	Department of Business Administration	3	0	0	3	6	Course	Sue Shei	G101	Fr 16 - 19	0						5038
+2023	2	BA 421	Strategic Management	BA 421_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	D234	Tu 09 - 12	0						5533
+2023	2	BA 424	Investment Analysis	BA 424_01	Department of Business Administration	3	0	0	3	6	Course	Sue Shei	G010	Tu 16 - 19	0						5038
+2023	2	BA 431	Financial Markets and Institutions	BA 431_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	D234	Tu 16 - 19	0						5530
+2023	2	BA 435	Real Estate Finance	BA 435_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G108	Mo 09 - 12	0						5530
+2023	2	BA 441	International Finance	BA 441_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G208	We 09 - 12	0						5530
+2023	2	BA 461	Consumer Behavior	BA 461_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G010	Mo 13 - 16	0						481
+2023	2	BA 462	New Product Development	BA 462_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G203	Mo 13 - 16	0						1340
+2023	2	BA 463	Marketing Research	BA 463_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G208	We 12 - 15	0						481
+2023	2	BA 464	Brand Management	BA 464_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	G205	We 12 - 15	0						1340
+2023	2	BA 470	"Environmental, Social, and Governance In"	BA 470_01	Department of Business Administration	3	0	0	3	6	Course	Will Barrow	D234	Mo 16 - 19	0						864
+2023	2	BIO 110	Introduction to Modern Biology	BIO 110_01	Basic Sciences	3	0	0	3	5	Course	Elon Gated	D030	Th 09 - 12	0						 00002028 (S) 
+2023	2	BIO 110	Introduction to Modern Biology	BIO 110_02	Basic Sciences	3	0	0	3	5	Course	Elon Gated	D028	Th 13 - 16	0						 00002028 (S) 
+2023	2	BIO 110	Introduction to Modern Biology	BIO 110_03	Basic Sciences	3	0	0	3	5	Course	Elon Gated	D032	Fr 13 - 16	0						 00002028 (S) 
+2023	2	CE 200	Computer Aided Technical Drawing	CE 200_01	Department of Civil Engineering	0	0	4	2	4	Course		H007/009-PC	Tu 09 - 11 Th 09 - 11	0						
+2023	2	CE 212	Engineering Mechanics II	CE 212_01	Department of Civil Engineering	3	0	0	3	5	Course	Elon Gated	G201	Mo 11 - 13 We 15 - 16	0						1812
+2023	2	CE 214	Introduction to Mechanics of Materials	CE 214_01	Department of Civil Engineering	3	0	2	4	6	Course	Elon Gated	G101 G201	Tu 16 - 17 We 13 - 15 Fr 11 - 13	0						1812
+2023	2	CE 232	Fluid Mechanics	CE 232_01	Department of Civil Engineering	3	0	0	3	5	Course	Elon Gated	G101 G201	Mo 13 - 14 Tu 13 - 15	0						872
+2023	2	CE 312	Fundamentals of Steel Design	CE 312_01	Department of Civil Engineering	3	0	0	3	6	Course	Elon Gated	G201 G101	Tu 15 - 17 We 13 - 14	0						1005
+2023	2	CE 314	Reinforced Concrete Fundamentals	CE 314_01	Department of Civil Engineering	3	0	0	3	6	Course	Elon Gated	A422	Tu 14 - 15 We 14 - 16	0						186
+2023	2	CE 332	Water Resources Engineering	CE 332_01	Department of Civil Engineering	3	0	0	3	6	Course	Elon Gated	G201	Mo 15 - 17 We 16 - 17	0						872
+2023	2	CE 342	Foundation Engineering I	CE 342_01	Department of Civil Engineering	3	0	0	3	6	Course	Elon Gated	G201 F117 F212	Mo 13 - 15 Tu 13 - 14 We 11 - 13	0						204
+2023	2	CE 410	Civil Engineering Design	CE 410_01	Department of Civil Engineering	2	2	0	3	10	Course	Elon Gated	G101	Mo 09 - 10 We 09 - 12	0						1005
+2023	2	CE 414	Intro.to Earthquake Resistant Desing	CE 414_01	Department of Civil Engineering	3	0	0	3	6	Course	Elon Gated	G101	We 18 - 21	0						1005
+2023	2	CE 434	Coastal Engineering	CE 434_01	Department of Civil Engineering	3	0	0	3	6	Course	Elon Gated	F206	Mo 11 - 13 Tu 11 - 12	0						2023
+2023	2	CE 455	Sustainable Construction	CE 455_01	Department of Civil Engineering	3	0	0	3	6	Course	Elon Gated	G101	Tu 18 - 21	0						1407
+2023	2	CHEM 100	General Chemistry	CHEM 100_01	Basic Sciences	3	0	0	3	5	Course	Elon Gated	DB20 D026	Mo 09 - 11 We 09 - 10	0						 00005718 (S) 
+2023	2	CHEM 100	General Chemistry	CHEM 100_02	Basic Sciences	3	0	0	3	5	Course	Elon Gated	DB20 D026	Mo 13 - 15 We 10 - 11	0						 00005718 (S) 
+2023	2	CHEM 100	General Chemistry	CHEM 100_03	Basic Sciences	3	0	0	3	5	Course		DB18 D030	Tu 14 - 15 Th 12 - 14	0						
+2023	2	CHEM 100	General Chemistry	CHEM 100_04	Basic Sciences	3	0	0	3	5	Course		D028 D030	Tu 16 - 18 Th 15 - 16	0						
+2023	2	CIT 221	Global Environmental Issues	CIT 221_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	6	Course	Elon Gated	G105	Tu 09 - 12	0						 00005653 (S) 
+2023	2	CIT 301	Civic Involvement	CIT 301_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Elon Gated	G103	Mo 12 - 15	0						 00002049 (S) 
+2023	2	CIT 301	Civic Involvement	CIT 301_02	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Elon Gated	G105	Tu 12 - 15	0						 00002049 (S) 
+2023	2	CIT 301	Civic Involvement	CIT 301_03	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Elon Gated	D228	Tu 16 - 19	0						 00002049 (S) 
+2023	2	CIT 330	Sociology of the City	CIT 330_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Elon Gated	G003	Th 16 - 19	0						 00005654 (S) 
+2023	2	CIT 330	Sociology of the City	CIT 330_02	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Elon Gated	G010	Fr 16 - 19	0						 00005654 (S) 
+2023	2	CIT 362	Introduction to Sustainable Development	CIT 362_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Elon Gated	G112	Tu 12 - 15	0						 00004088 (S) 
+2023	2	CIT 362	Introduction to Sustainable Development	CIT 362_02	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Elon Gated	G205	Th 12 - 15	0						 00004088 (S) 
+2023	2	CIT 370	Global Concerns: Inequalities and Discri	CIT 370_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course		G006	We 12 - 15	0						
+2023	2	CIT 374	International Gender Politics	CIT 374_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Richard Tea	G108	Fr 12 - 15	0						 00003184 (S) 
+2023	2	CIT 392	Peace Studies and Conflict Resolution	CIT 392_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course		G203	Th 12 - 15	0						
+2023	2	CIT 430	Citizenship Theories	CIT 430_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Richard Tea	G108	Th 16 - 19	0						 00005655 (S) 
+2023	2	CIT 440	Human Rights Law	CIT 440_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Richard Tea	G010	Mo 16 - 19	0						 00003967 (S) 
+2023	2	CIT 491	Gender and Violence	CIT 491_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course		G113	We 16 - 19	0						
+2023	2	CITY 102	Basic Design in Planning II	CITY 102_01	Department of City and Regional Planning	2	8	0	6	10	Course	Richard Tea		Tu 09 - 12 Tu 13 - 15 Fr 13 - 15 Fr 09 - 12	0						628
+2023	2	CITY 112	Graphic Communication Techniques in Arch	CITY 112_01	Department of City and Regional Planning	2	2	0	3	6	Course	Richard Tea		Th 09 - 13	0						3212
+2023	2	CITY 112-O	Graphic Communication Techniques in Arch	CITY 112-O_1	Department of City and Regional Planning	2	2	0	3	5	Course	Richard Tea		Th 09 - 13	0						3212
+2023	2	CITY 202	Planning Studio II	CITY 202_01	Department of City and Regional Planning	2	8	0	6	12	Course	Richard Tea		Tu 09 - 12 Tu 13 - 15 Fr 13 - 15 Fr 09 - 12	0						" 00000795 , 00000593 "
+2023	2	CITY 202-O	Planning Studio II	CITY 202-O_1	Department of City and Regional Planning	2	8	0	6	11	Course	Richard Tea		Tu 09 - 12 Tu 13 - 15 Fr 09 - 12 Fr 13 - 15	0						" 00000593 , 00000795 "
+2023	2	CITY 232	The City in History	CITY 232_01	Department of City and Regional Planning	3	0	0	3	5	Course	Richard Tea	F206	We 13 - 16	0						593
+2023	2	CITY 302-O	Planning Studio IV	CITY 302-O_1	Department of City and Regional Planning	2	8	0	6	11	Course	Richard Tea		Tu 13 - 15 Tu 09 - 12 Fr 13 - 15 Fr 09 - 12	0						3212
+2023	2	CITY 322-O	Urban Circulation and Transport Planning	CITY 322-O_1	Department of City and Regional Planning	3	0	0	3	4	Course	Richard Tea	F117	Mo 13 - 17	0						 00003075 (S) 
+2023	2	CITY 352-O	Planning Theory and Techniques	CITY 352-O_1	Department of City and Regional Planning	3	0	0	3	5	Course	Richard Tea	G103	Mo 09 - 12	0						795
+2023	2	CITY 362	 Sociology of Planning and Design	CITY 362_01	Department of City and Regional Planning	3	0	0	3	5	Course	Richard Tea	G005	Th 09 - 12	0						594
+2023	2	CITY 399-O	Summer Practise I: Research and Analysis	CITY 399-O_1	Department of City and Regional Planning	0	0	0	0	2	Internship	Richard Tea		Fr 19 - 20	0						628
+2023	2	CITY 402-O	Planning Studio VI	CITY 402-O_1	Department of City and Regional Planning	2	8	0	6	10	Course	Richard Tea		Tu 13 - 15 Tu 09 - 12 Fr 09 - 12 Fr 13 - 15	0						" 00000594 , 00001880 (S) "
+2023	2	CITY 412-O	Urban Morphology	CITY 412-O_1	Department of City and Regional Planning	2	1	0	2	5	Course	Richard Tea	G009	We 09 - 12	0						628
+2023	2	CITY 430	City Planning Law and Implementations	CITY 430_01	Department of City and Regional Planning	3	0	0	3	5	Course	Richard Tea	G003	Th 13 - 16	0						 00003076 (S) 
+2023	2	CITY 499-O	Summer Practise II: Planning and Design	CITY 499-O_1	Department of City and Regional Planning	0	0	0	0	2	Internship	Richard Tea		Fr 20 - 21	0						628
+2023	2	CMPE 113	Fundamentals of Programming I	CMPE 113_01	Department of Computer Engineering	1	0	4	3	5	Course	Richard Tea	A514-PC-L D026	Mo 11 - 13 Tu 09 - 11	0						469
+2023	2	CMPE 113	Fundamentals of Programming I	CMPE 113_02	Department of Computer Engineering	1	0	4	3	5	Course	Richard Tea	A514-PC-L D026	Mo 15 - 17 Tu 13 - 15	0						469
+2023	2	CMPE 113	Fundamentals of Programming I	CMPE 113_03	Department of Computer Engineering	1	0	4	3	5	Course	Richard Tea	DB20 A514-PC-L	We 13 - 15 Th 17 - 19	0						469
+2023	2	CMPE 113	Fundamentals of Programming I	CMPE 113_04	Department of Computer Engineering	1	0	4	3	5	Course	Richard Tea	A514-PC-L D032	We 11 - 13 Th 15 - 17	0						469
+2023	2	CMPE 113	Fundamentals of Programming I	CMPE 113_05	Department of Computer Engineering	1	0	4	3	5	Course		D030 A514-PC-L	Mo 13 - 15 We 15 - 17	0						
+2023	2	CMPE 114	Fundamentals of Programming II	CMPE 114_01	Department of Computer Engineering	2	0	2	3	6	Course	Caspian Bellevedere	D030 A514-PC-L	Mo 09 - 11 Tu 09 - 11	0						5055
+2023	2	CMPE 114	Fundamentals of Programming II	CMPE 114_02	Department of Computer Engineering	2	0	2	3	6	Course	Caspian Bellevedere	A514-PC-L D030	Tu 13 - 15 We 15 - 17	0						5055
+2023	2	CMPE 223	Data Structures and Algorithms I	CMPE 223_01	Department of Computer Engineering	3	0	0	3	6	Course	Caspian Bellevedere	D028 DB16	Mo 16 - 18 Fr 14 - 15	0						244
+2023	2	CMPE 223	Data Structures and Algorithms I	CMPE 223_02	Department of Computer Engineering	3	0	0	3	6	Course	Caspian Bellevedere	D028 DB16	Tu 12 - 14 Fr 15 - 16	0						244
+2023	2	CMPE 223	Data Structures and Algorithms I	CMPE 223_03	Department of Computer Engineering	3	0	0	3	6	Course	Caspian Bellevedere	DB20 DB16	Tu 10 - 11 Fr 12 - 14	0						244
+2023	2	CMPE 224	Data Structures and Algorithms II	CMPE 224_01	Department of Computer Engineering	3	0	0	3	6	Course	Caspian Bellevedere	DB18	Fr 09 - 12	0						3019
+2023	2	CMPE 224	Data Structures and Algorithms II	CMPE 224_02	Department of Computer Engineering	3	0	0	3	6	Course	Caspian Bellevedere	D232	We 13 - 16	0						3019
+2023	2	CMPE 232	Database Systems	CMPE 232_01	Department of Computer Engineering	3	0	0	3	5	Course		DB20	Tu 16 - 19	0						
+2023	2	CMPE 232	Database Systems	CMPE 232_02	Department of Computer Engineering	3	0	0	3	5	Course		D232	We 16 - 19	0						
+2023	2	CMPE 232	Database Systems	CMPE 232_03	Department of Computer Engineering	3	0	0	3	5	Course		DB18	Th 16 - 19	0						
+2023	2	CMPE 252	C Programming	CMPE 252_01	Department of Computer Engineering	2	0	2	3	6	Course	Caspian Bellevedere	A514-PC-L D228	Mo 18 - 20 Th 11 - 13	0						3053
+2023	2	CMPE 252	C Programming	CMPE 252_02	Department of Computer Engineering	2	0	2	3	6	Course	Caspian Bellevedere	D234 A514-PC-L	We 11 - 13 Fr 17 - 19	0						3053
+2023	2	CMPE 252	C Programming	CMPE 252_03	Department of Computer Engineering	2	0	2	3	6	Course	Caspian Bellevedere	A514-PC-L D232	Tu 19 - 21 We 11 - 13	0						3890
+2023	2	CMPE 252	C Programming	CMPE 252_04	Department of Computer Engineering	2	0	2	3	6	Course	Caspian Bellevedere	A514-PC-L DB20	We 17 - 19 Fr 11 - 13	0						3890
+2023	2	CMPE 326	Concepts of Programming Languages	CMPE 326_01	Department of Computer Engineering	3	0	0	3	5	Course	Caspian Bellevedere	K184 D234	Mo 13 - 15 We 13 - 14	0						4099
+2023	2	CMPE 326	Concepts of Programming Languages	CMPE 326_02	Department of Computer Engineering	3	0	0	3	5	Course	Caspian Bellevedere	K184 D234	Mo 15 - 17 We 14 - 15	0						4099
+2023	2	CMPE 326	Concepts of Programming Languages	CMPE 326_03	Department of Computer Engineering	3	0	0	3	5	Course	Caspian Bellevedere	D234	We 09 - 11 Fr 12 - 13	0						4099
+2023	2	CMPE 326	Concepts of Programming Languages	CMPE 326_04	Department of Computer Engineering	3	0	0	3	5	Course	Caspian Bellevedere	D232 D234	Tu 11 - 13 Fr 13 - 14	0						4842
+2023	2	CMPE 327	Theory of Computation	CMPE 327_01	Department of Computer Engineering	3	0	0	3	6	Course	Caspian Bellevedere	K085 D234	Mo 09 - 11 Fr 11 - 12	0						4099
+2023	2	CMPE 362	Digital Image Processing	CMPE 362_01	Department of Computer Engineering	3	0	0	3	5	Course	Caspian Bellevedere	D032 D026	Tu 11 - 12 We 15 - 17	0						3890
+2023	2	CMPE 382	Operating Systems	CMPE 382_01	Department of Computer Engineering	3	0	0	3	5	Course	Caspian Bellevedere	DB14 D032	Mo 11 - 13 Tu 16 - 17	0						5532
+2023	2	CMPE 382	Operating Systems	CMPE 382_02	Department of Computer Engineering	3	0	0	3	5	Course	Caspian Bellevedere	D032 G213	Tu 17 - 18 We 11 - 13	0						5532
+2023	2	CMPE 382	Operating Systems	CMPE 382_03	Department of Computer Engineering	3	0	0	3	5	Course	Caspian Bellevedere	D232 D234	Tu 09 - 11 Fr 14 - 15	0						4842
+2023	2	CMPE 399	Summer Practice I	CMPE 399_01	Department of Computer Engineering	1	0	0	1	2	Internship	Dianne Ameter		Fr 18 - 19	0						1814
+2023	2	CMPE 414	Information Retrieval	CMPE 414_01	Department of Computer Engineering	3	0	0	3	5	Course		G105	We 16 - 19	0						
+2023	2	CMPE 442	Introduction to Machine Learning	CMPE 442_01	Department of Computer Engineering	3	0	0	3	5	Course	Dianne Ameter	D230 D234	Mo 09 - 11 We 17 - 18	0						1814
+2023	2	CMPE 442	Introduction to Machine Learning	CMPE 442_02	Department of Computer Engineering	3	0	0	3	5	Course	Dianne Ameter	D234	Mo 13 - 14 We 15 - 17	0						1814
+2023	2	CMPE 472	Computer Networks	CMPE 472_01	Department of Computer Engineering	2	0	2	3	6	Course	Dianne Ameter	D030 A514-PC-L	Mo 16 - 18 Tu 15 - 17	0						1446
+2023	2	CMPE 472	Computer Networks	CMPE 472_02	Department of Computer Engineering	2	0	2	3	6	Course	Dianne Ameter	A514-PC-L D230	Tu 17 - 19 We 14 - 16	0						1446
+2023	2	CMPE 490	Introduction to Research in Computer Eng	CMPE 490_01	Department of Computer Engineering	0	6	0	3	6	Course	Caspian Bellevedere		Mo 18 - 19	0						244
+2023	2	CMPE 491	Senior Project I	CMPE 491_01	Department of Computer Engineering	1	4	0	3	8	Course	Caspian Bellevedere		Tu 18 - 19	0						4099
+2023	2	CMPE 492	Senior Project II	CMPE 492_01	Department of Computer Engineering	1	4	0	3	8	Course	Caspian Bellevedere		Tu 18 - 19	0						3890
+2023	2	CMPE 499	Summer Practice II	CMPE 499_01	Department of Computer Engineering	1	0	0	1	2	Internship	Dianne Ameter		Fr 19 - 20	0						1814
+2023	2	COM 250	Effective Communication Techniques	COM 250_01	Basic Sciences	3	0	0	3	5	Course	Dianne Ameter	G212	Tu 13 - 16	0						 00000334 (S) 
+2023	2	COM 250	Effective Communication Techniques	COM 250_02	Basic Sciences	3	0	0	3	5	Course	Dianne Ameter	GB05	Th 09 - 12	0						 00000334 (S) 
+2023	2	COM 250	Effective Communication Techniques	COM 250_03	Basic Sciences	3	0	0	3	5	Course	Dianne Ameter	GB05	Th 13 - 16	0						 00000334 (S) 
+2023	2	ECEP 102	Development in Early Childhood	ECEP 102_01	Early Childhood Education	3	0	0	3	5	Course	Dianne Ameter	GB10-PECE-L	Tu 14 - 16 Fr 15 - 17	0						2
+2023	2	ECEP 104	Development and Education in Infancy	ECEP 104_01	Early Childhood Education	2	0	0	2	5	Course	Dianne Ameter	GB10-PECE-L	Tu 14 - 16 Fr 15 - 17	0						2
+2023	2	ECEP 201	Science Education in Early Childhood	ECEP 201_01	Early Childhood Education	3	0	0	3	6	Course	Dianne Ameter	GB10-PECE-L	Th 09 - 12	0						2609
+2023	2	ECEP 203	Mathematics Education in Early Childhood	ECEP 203_01	Early Childhood Education	3	0	0	3	5	Course	Dianne Ameter	GB10-PECE-L	Fr 09 - 12	0						4802
+2023	2	ECEP 204	Development and Education of Play in E.C	ECEP 204_01	Early Childhood Education	3	0	0	3	3	Course	Dianne Ameter	GB10-PECE-L	We 11 - 13	0						67
+2023	2	ECEP 205	Curriculum in Early Childhood	ECEP 205_01	Early Childhood Education	3	0	0	3	5	Course	Dianne Ameter	GB10-PECE-L	Mo 09 - 12	0						1058
+2023	2	ECEP 206	Drama in Early Childhood Education	ECEP 206_01	Early Childhood Education	2	0	0	2	3	Course	Dianne Ameter	GB10-PECE-L	Mo 14 - 17	0						2609
+2023	2	ECEP 255	Traditional Games in Early Childhood Edu	ECEP 255_01	Early Childhood Education	2	0	0	2	4	Course	Dianne Ameter	G205	Fr 15 - 17	0						4130
+2023	2	ECEP 301	Art Education in Early Childhood	ECEP 301_01	Early Childhood Education	3	0	0	3	4	Course	Dianne Ameter	D126-EF-L	Th 09 - 12	0						 00004129 (S) 
+2023	2	ECEP 302	Environmental Education in E.C	ECEP 302_01	Early Childhood Education	3	0	0	3	5	Course	Dianne Ameter	D126-EF-L	Mo 11 - 13	0						4404
+2023	2	ECEP 304	Child Mental Health	ECEP 304_01	Early Childhood Education	3	0	0	3	5	Course	Dianne Ameter	GB10-PECE-L	Tu 09 - 12	0						1058
+2023	2	ECEP 306	Early Childhood Literature	ECEP 306_01	Early Childhood Education	2	0	0	2	3	Course	Dianne Ameter	GB10-PECE-L	We 13 - 15	0						67
+2023	2	ECEP 352	Early Childhood Education Across Nations	ECEP 352_01	Early Childhood Education	2	0	0	2	4	Course	Dianne Ameter	GB10-PECE-L	Fr 13 - 15	0						4802
+2023	2	ECEP 402	Policies in Early Childhood Education	ECEP 402_01	Early Childhood Education	3	0	0	3	4	Course	Dianne Ameter	G113	Th 11 - 14	0						4130
+2023	2	ECON 101	Economics I	ECON 101_01	Department of Economics	3	0	0	3	6	Course	Jarvis Pepperspray	D230 DB20	Tu 14 - 16 We 12 - 13 Fr 09 - 11	0						51
+2023	2	ECON 101	Economics I	ECON 101_02	Department of Economics	3	0	0	3	6	Course	Jarvis Pepperspray	G205 G208	Tu 11 - 14 Fr 09 - 11	0						960
+2023	2	ECON 101-O	Economics I	ECON 101-O_1	Department of Economics	3	1	0	4	6	Course	Jarvis Pepperspray		Tu 14 - 16 We 12 - 13 Fr 09 - 11	0						51
+2023	2	ECON 101-O	Economics I	ECON 101-O_2	Department of Economics	3	1	0	4	6	Course	Jarvis Pepperspray		Tu 11 - 14 Fr 09 - 11	0						960
+2023	2	ECON 102	Economics II	ECON 102_01	Department of Economics	3	0	0	3	6	Course	Jarvis Pepperspray	DB16 D232	Tu 13 - 16 Fr 12 - 14	0						4038
+2023	2	ECON 102	Economics II	ECON 102_02	Department of Economics	3	0	0	3	6	Course	Jarvis Pepperspray	D228	Tu 13 - 16 Fr 12 - 14	0						5658
+2023	2	ECON 102	Economics II	ECON 102_03	Department of Economics	3	0	0	3	6	Course	Jarvis Pepperspray	D032 D030 D028	Mo 11 - 12 Tu 11 - 13 Fr 12 - 14	0						 00005529 (S) 
+2023	2	ECON 212	Microeconomics II	ECON 212_01	Department of Economics	3	1	0	3	6	Course	Jarvis Pepperspray	D030	Tu 15 - 18 Fr 11 - 13	0						6
+2023	2	ECON 222	Macroeconomics II	ECON 222_01	Department of Economics	3	0	0	3	6	Course	Jarvis Pepperspray	D228 DB14	Tu 11 - 13 We 11 - 12	0						51
+2023	2	ECON 300	Summer Practice  I	ECON 300_01	Department of Economics	1	0	0	1	2	Internship	Jarvis Pepperspray		Fr 18 - 19	0						51
+2023	2	ECON 321	Advanced Macroeconomic Theory	ECON 321_01	Department of Economics	3	0	0	3	6	Course	Jarvis Pepperspray	G213	Th 09 - 12	0						3902
+2023	2	ECON 322	Development Economics	ECON 322_01	Department of Economics	3	0	0	3	6	Course	Jarvis Pepperspray	G103	Tu 09 - 12	0						173
+2023	2	ECON 332	Econometrics II	ECON 332_01	Department of Economics	3	0	2	4	6	Course	Jarvis Pepperspray	GB07-PC-L G105	Tu 13 - 15 We 13 - 16	0						173
+2023	2	ECON 370	Climate Policy and Green Transition	ECON 370_01	Department of Economics	3	0	0	3	6	Course		G208	Th 13 - 16	0						
+2023	2	ECON 400-O	Summer Practice II	ECON 400-O_1	Department of Economics	1	0	0	1	2	Internship	Jarvis Pepperspray		Fr 19 - 20	0						51
+2023	2	ECON 401	Research Methods	ECON 401_01	Department of Economics	3	0	0	3	7	Course	Sue Shei		We 09 - 12	0						3102
+2023	2	ECON 402	Graduation Paper and Seminar	ECON 402_01	Department of Economics	3	0	0	3	7	Course	Jarvis Pepperspray		We 18 - 21	0						51
+2023	2	ECON 402	Graduation Paper and Seminar	ECON 402_02	Department of Economics	3	0	0	3	7	Course	Jarvis Pepperspray		We 18 - 21	0						3902
+2023	2	ECON 402	Graduation Paper and Seminar	ECON 402_03	Department of Economics	3	0	0	3	7	Course	Jarvis Pepperspray		We 18 - 21	0						173
+2023	2	ECON 402	Graduation Paper and Seminar	ECON 402_04	Department of Economics	3	0	0	3	7	Course	Jarvis Pepperspray		We 18 - 21	0						5658
+2023	2	ECON 402	Graduation Paper and Seminar	ECON 402_05	Department of Economics	3	0	0	3	7	Course	Jarvis Pepperspray		We 18 - 21	0						 00005529 (S) 
+2023	2	ECON 402	Graduation Paper and Seminar	ECON 402_06	Department of Economics	3	0	0	3	7	Course	Jarvis Pepperspray		We 18 - 21	0						4038
+2023	2	ECON 402	Graduation Paper and Seminar	ECON 402_07	Department of Economics	3	0	0	3	7	Course	Jarvis Pepperspray		We 18 - 21	0						6
+2023	2	ECON 406	Experimental Economics	ECON 406_01	Department of Economics	3	0	0	3	6	Course	Jarvis Pepperspray	GB07-PC-L	Mo 13 - 16	0						 00005529 (S) 
+2023	2	ECON 470	"Environmental, Social, and Governance In"	ECON 470_01	Department of Economics	3	0	0	3	6	Course	Will Barrow		Mo 16 - 19	0						864
+2023	2	ED 101	Educational Philosophy	ED 101_01	Department of Educational Sciences	3	0	0	3	5	Course	Jarvis Pepperspray	D226	Mo 11 - 13 Tu 13 - 14	0						 00001601 (S) 
+2023	2	ED 101	Educational Philosophy	ED 101_02	Department of Educational Sciences	3	0	0	3	5	Course	Jarvis Pepperspray	D226	Mo 13 - 15 Tu 14 - 15	0						 00001601 (S) 
+2023	2	ED 102	Educational Psychology	ED 102_01	Department of Educational Sciences	3	0	0	3	5	Course	Jarvis Pepperspray	D226	Tu 09 - 11 Th 11 - 12	0						3364
+2023	2	ED 102	Educational Psychology	ED 102_02	Department of Educational Sciences	3	0	0	3	5	Course	Jarvis Pepperspray	D226	We 11 - 13 Th 12 - 13	0						3364
+2023	2	ED 200	Educational Sociology	ED 200_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	G103	We 15 - 17	0						4834
+2023	2	ED 201	Instructional Technologies	ED 201_01	Department of Educational Sciences	2	2	0	3	5	Course	Jarvis Pepperspray	GB07-PC-L	We 11 - 13 Fr 09 - 11	0						320
+2023	2	ED 201	Instructional Technologies	ED 201_02	Department of Educational Sciences	2	2	0	3	5	Course	Jarvis Pepperspray	GB07-PC-L	We 13 - 15 Fr 11 - 13	0						320
+2023	2	ED 203	Instructional Principles and Methods	ED 203_01	Department of Educational Sciences	2	2	0	3	5	Course	Jarvis Pepperspray	D226 D228	Mo 09 - 11 Tu 09 - 11	0						2542
+2023	2	ED 203	Instructional Principles and Methods	ED 203_02	Department of Educational Sciences	2	2	0	3	5	Course	Jarvis Pepperspray	D232	Mo 11 - 13 Tu 13 - 15	0						1354
+2023	2	ED 203	Instructional Principles and Methods	ED 203_03	Department of Educational Sciences	2	2	0	3	5	Course	Jarvis Pepperspray	D226	We 09 - 11 Th 09 - 11	0						3364
+2023	2	ED 210	History of Turkish Education	ED 210_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	G112	Mo 13 - 15	0						2542
+2023	2	ED 210	History of Turkish Education	ED 210_02	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	G006	Tu 11 - 13	0						2542
+2023	2	ED 220	Curriculum Development in Education	ED 220_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	D232	Mo 09 - 11	0						1354
+2023	2	ED 230	Drama in Education	ED 230_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	D226	Th 13 - 15	0						 00003917 (S) 
+2023	2	ED 230	Drama in Education	ED 230_02	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	D226	Th 15 - 17	0						 00003917 (S) 
+2023	2	ED 260	Project Design in Education	ED 260_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	D226	Th 18 - 20	0						 00003921 (S) 
+2023	2	ED 260	Project Design in Education	ED 260_02	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	D232	We 09 - 11	0						1354
+2023	2	ED 280	Adult Education and Lifelong Learning	ED 280_01	Department of Educational Sciences	2	0	0	2	3	Course	Joss Sticks	G009	Th 11 - 13	0						 00001833 (S) 
+2023	2	ED 290	Sustainable Development and Education	ED 290_01	Department of Educational Sciences	2	0	0	2	3	Course	Joss Sticks	G108	Tu 09 - 11	0						 00002569 (S) 
+2023	2	ED 301	Measurement and Evaluation in Education	ED 301_01	Department of Educational Sciences	2	2	0	3	5	Course	Joss Sticks	D030 D226	Tu 13 - 15 We 13 - 15	0						1984
+2023	2	ED 301	Measurement and Evaluation in Education	ED 301_02	Department of Educational Sciences	2	2	0	3	5	Course	Joss Sticks	G112	Mo 09 - 11 We 09 - 11	0						5018
+2023	2	ED 301	Measurement and Evaluation in Education	ED 301_03	Department of Educational Sciences	2	2	0	3	5	Course	Joss Sticks	G112	Mo 11 - 13 We 11 - 13	0						5018
+2023	2	ED 302	Research Methods in Education	ED 302_01	Department of Educational Sciences	2	2	0	3	5	Course	Joss Sticks	D230 D226	Mo 11 - 13 Tu 15 - 17	0						1984
+2023	2	ED 302	Research Methods in Education	ED 302_02	Department of Educational Sciences	2	2	0	3	5	Course	Joss Sticks	D230	Mo 13 - 15 We 11 - 13	0						1984
+2023	2	ED 350	21st Century Skills for Teachers	ED 350_01	Department of Educational Sciences	2	0	0	2	3	Course	Joss Sticks	G005	Tu 09 - 11	0						5018
+2023	2	ED 360	New Media Literacy	ED 360_01	Department of Educational Sciences	2	0	0	2	3	Course	Joss Sticks	G108	Tu 13 - 15	0						 00002569 (S) 
+2023	2	ED 390	Turkish Education System	ED 390_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	G108	Tu 15 - 17	0						4834
+2023	2	ED 400	Open and Distance Learning	ED 400_01	Department of Educational Sciences	2	0	0	2	3	Course	Joss Sticks	G108	Tu 11 - 13	0						 00002569 (S) 
+2023	2	EDUC 103	Educational Sociology	EDUC 103_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	G103	We 15 - 17	0						4834
+2023	2	EDUC 104	Educational Philosophy	EDUC 104_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	D226	Mo 11 - 13 Tu 13 - 14	0						 00001601 (S) 
+2023	2	EDUC 104	Educational Philosophy	EDUC 104_02	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	D226	Mo 13 - 15 Tu 14 - 15	0						 00001601 (S) 
+2023	2	EDUC 201	Instructional Principles and Methods	EDUC 201_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	D226 D228	Mo 09 - 11 Tu 09 - 11	0						2542
+2023	2	EDUC 201	Instructional Principles and Methods	EDUC 201_02	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	D232	Mo 11 - 13 Tu 13 - 15	0						1354
+2023	2	EDUC 201	Instructional Principles and Methods	EDUC 201_03	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	D226	We 09 - 11 Th 09 - 11	0						3364
+2023	2	EDUC 202	History of Turkish Education	EDUC 202_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	G112	Mo 13 - 15	0						2542
+2023	2	EDUC 202	History of Turkish Education	EDUC 202_02	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	G006	Tu 11 - 13	0						2542
+2023	2	EDUC 203	Instructional Technologies	EDUC 203_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	GB07-PC-L	We 11 - 13 Fr 09 - 11	0						320
+2023	2	EDUC 203	Instructional Technologies	EDUC 203_02	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	GB07-PC-L	We 13 - 15 Fr 11 - 13	0						320
+2023	2	EDUC 204	Research Methods in Education	EDUC 204_01	Department of Educational Sciences	2	0	0	2	3	Course	Joss Sticks	D230 D226	Mo 11 - 13 Tu 15 - 17	0						1984
+2023	2	EDUC 204	Research Methods in Education	EDUC 204_02	Department of Educational Sciences	2	0	0	2	3	Course	Joss Sticks	D230	Mo 13 - 15 We 11 - 13	0						1984
+2023	2	EDUC 250	Adult Education and Lifelong Learning	EDUC 250_01	Department of Educational Sciences	2	0	0	2	4	Course	Joss Sticks	G009	Th 11 - 13	0						 00001833 (S) 
+2023	2	EDUC 251	Open and Distance Education	EDUC 251_01	Department of Educational Sciences	2	0	0	2	4	Course	Joss Sticks	G108	Tu 11 - 13	0						 00002569 (S) 
+2023	2	EDUC 257	Drama in Education	EDUC 257_01	Department of Educational Sciences	2	0	0	2	4	Course	Jarvis Pepperspray	D226	Th 13 - 15	0						 00003917 (S) 
+2023	2	EDUC 257	Drama in Education	EDUC 257_02	Department of Educational Sciences	2	0	0	2	4	Course	Jarvis Pepperspray	D226	Th 15 - 17	0						 00003917 (S) 
+2023	2	EDUC 259	Curriculum Development in Education	EDUC 259_01	Department of Educational Sciences	2	0	0	2	4	Course	Jarvis Pepperspray	D232	Mo 09 - 11	0						1354
+2023	2	EDUC 260	Project Design in Education	EDUC 260_01	Department of Educational Sciences	2	0	0	2	4	Course	Jarvis Pepperspray	D226	Th 18 - 20	0						 00003921 (S) 
+2023	2	EDUC 260	Project Design in Education	EDUC 260_02	Department of Educational Sciences	2	0	0	2	4	Course	Jarvis Pepperspray	D232	We 09 - 11	0						1354
+2023	2	EDUC 301	Classroom Management	EDUC 301_01	Department of Educational Sciences	2	0	0	2	3	Course	Dianne Ameter	D226	Fr 09 - 12	0						4130
+2023	2	EDUC 302	Assessment and Evaluation in Education	EDUC 302_01	Department of Educational Sciences	2	0	0	2	3	Course	Joss Sticks	D030 D226	Tu 13 - 15 We 13 - 15	0						1984
+2023	2	EDUC 302	Assessment and Evaluation in Education	EDUC 302_02	Department of Educational Sciences	2	0	0	2	3	Course	Joss Sticks	G112	Mo 09 - 11 We 09 - 11	0						5018
+2023	2	EDUC 302	Assessment and Evaluation in Education	EDUC 302_03	Department of Educational Sciences	2	0	0	2	3	Course	Joss Sticks	G112	Mo 11 - 13 We 11 - 13	0						5018
+2023	2	EDUC 304	Turkish Education System and School Man.	EDUC 304_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	G108	Tu 15 - 17	0						4834
+2023	2	EDUC 354	Museum Education	EDUC 354_01	Department of Educational Sciences	2	0	0	2	4	Course	Dianne Ameter	G103	Th 15 - 17	0						 00004129 (S) 
+2023	2	EDUC 358	Sustainable Development and Education	EDUC 358_01	Department of Educational Sciences	2	0	0	2	4	Course	Joss Sticks	G108	Tu 09 - 11	0						 00002569 (S) 
+2023	2	EDUC 401	Teaching Practice 1 (ELEP)	EDUC 401_01	Department of Educational Sciences	2	6	0	5	10	Course	Joss Sticks	G101	Mo 13 - 19 Th 12 - 14	0						3047
+2023	2	EDUC 401	Teaching Practice 1 (ELEP)	EDUC 401_02	Department of Educational Sciences	2	6	0	5	10	Course	Joss Sticks	G201	Mo 13 - 19 Th 12 - 14	0						882
+2023	2	EDUC 402	Teaching Practice 2 (ELEP)	EDUC 402_01	Department of Educational Sciences	2	6	0	5	15	Course	Joss Sticks	F115	Mo 13 - 19 Fr 09 - 11	0						5531
+2023	2	EDUC 402	Teaching Practice 2 (ELEP)	EDUC 402_02	Department of Educational Sciences	2	6	0	5	15	Course	Joss Sticks	F212	Mo 13 - 19 Fr 09 - 11	0						5642
+2023	2	EDUC 402	Teaching Practice 2 (ELEP)	EDUC 402_03	Department of Educational Sciences	2	6	0	5	15	Course	Joss Sticks	F204	Mo 13 - 19 Fr 09 - 11	0						1712
+2023	2	EDUC 402	Teaching Practice 2 (ELEP)	EDUC 402_04	Department of Educational Sciences	2	6	0	5	15	Course	Joss Sticks	F206	Mo 13 - 19 Fr 09 - 11	0						326
+2023	2	EDUC 404	Teaching Practice 2 (MATE)	EDUC 404_01	Department of Educational Sciences	2	6	0	5	12	Course	Joss Sticks	G101	Tu 09 - 15 We 14 - 16	0						2095
+2023	2	EDUC 404	Teaching Practice 2 (MATE)	EDUC 404_02	Department of Educational Sciences	2	6	0	5	12	Course	Joss Sticks	F206	Mo 16 - 18 Tu 09 - 15	0						1828
+2023	2	EDUC 404	Teaching Practice 2 (MATE)	EDUC 404_03	Department of Educational Sciences	2	6	0	5	12	Course	Joss Sticks	F214	Tu 09 - 15 We 12 - 14	0						3016
+2023	2	EDUC 404	Teaching Practice 2 (MATE)	EDUC 404_04	Department of Educational Sciences	2	6	0	5	12	Course	Joss Sticks	G101	Tu 09 - 15 Fr 09 - 11	0						1048
+2023	2	EDUC 406	Teaching Practice 2 (ECEP)	EDUC 406_01	Department of Educational Sciences	2	6	0	5	15	Course	Dianne Ameter	GB10-PECE-L	We 09 - 15 We 16 - 18	0						4802
+2023	2	EDUC 406	Teaching Practice 2 (ECEP)	EDUC 406_02	Department of Educational Sciences	2	6	0	5	15	Course	Dianne Ameter		We 09 - 15 We 16 - 18	0						2609
+2023	2	EDUC 406	Teaching Practice 2 (ECEP)	EDUC 406_03	Department of Educational Sciences	2	6	0	5	15	Course	Dianne Ameter		We 09 - 15 We 16 - 18	0						1058
+2023	2	EDUC 406	Teaching Practice 2 (ECEP)	EDUC 406_04	Department of Educational Sciences	2	6	0	5	15	Course	Dianne Ameter		We 09 - 15 We 16 - 18	0						4130
+2023	2	EDUC 407	Teaching Practice 1 (EGEP)	EDUC 407_01	Department of Educational Sciences	2	6	0	5	10	Course	Doug Lyphe		Tu 13 - 15 Fr 09 - 15	0						3248
+2023	2	EDUC 408	Teaching Practice 2 (EGEP)	EDUC 408_01	Department of Educational Sciences	2	6	0	5	12	Course	Doug Lyphe	F115	Mo 09 - 15 We 15 - 17	0						1062
+2023	2	EDUC 408	Teaching Practice 2 (EGEP)	EDUC 408_02	Department of Educational Sciences	2	6	0	5	12	Course	Doug Lyphe	F204	Mo 09 - 15 We 15 - 16 We 16 - 17	0						3248
+2023	2	EDUC 409	Special Education and Inclusion	EDUC 409_01	Department of Educational Sciences	2	0	0	2	3	Course	Jarvis Pepperspray	D226	Tu 11 - 13	0						 00001601 (S) 
+2023	2	EDUC 410	Counseling in Schools	EDUC 410_01	Department of Educational Sciences	2	0	0	2	3	Course	Doug Lyphe	D026	Th 12 - 14	0						2607
+2023	2	EDUC 411	Practicum of Counseling in Schools 1	EDUC 411_01	Department of Educational Sciences	2	6	0	5	10	Course	Doug Lyphe	F104-PSCG-L	Tu 09 - 15 Th 16 - 18	0						4120
+2023	2	EDUC 412	Practicum of Counseling in Schools 2	EDUC 412_01	Department of Educational Sciences	2	6	0	5	10	Course	Doug Lyphe	F106-PSCG-L	Tu 09 - 15 Th 16 - 18	0						1134
+2023	2	EDUC 412	Practicum of Counseling in Schools 2	EDUC 412_02	Department of Educational Sciences	2	6	0	5	10	Course	Doug Lyphe	F112-PSCG-L	Tu 09 - 15 Th 16 - 18	0						3224
+2023	2	EDUC 412	Practicum of Counseling in Schools 2	EDUC 412_03	Department of Educational Sciences	2	6	0	5	10	Course	Doug Lyphe	F114-PSCG-L	Tu 09 - 15 Th 16 - 18	0						2607
+2023	2	EDUC 412	Practicum of Counseling in Schools 2	EDUC 412_04	Department of Educational Sciences	2	6	0	5	10	Course	Doug Lyphe	F117	Tu 09 - 15 Th 16 - 18	0						509
+2023	2	EDUC 412	Practicum of Counseling in Schools 2	EDUC 412_05	Department of Educational Sciences	2	6	0	5	10	Course	Doug Lyphe	F204	Tu 09 - 15 Th 16 - 18	0						845
+2023	2	EE 202	Circuit Theory II	EE 202_01	Dept.of Electric&Electronics Engineering	3	0	2	4	8	Course	Doug Lyphe	G003 A317-MF-L	Tu 09 - 11 We 11 - 12	0						4098
+2023	2	EE 202	Circuit Theory II	EE 202_02	Dept.of Electric&Electronics Engineering	3	0	2	4	8	Course	Doug Lyphe	G003 A317-MF-L	Tu 11 - 12 We 09 - 11 Th 13 - 15	0						4098
+2023	2	EE 207	Electrical Circuits and Logic Design	EE 207_01	Dept.of Electric&Electronics Engineering	2	0	2	3	6	Course	Doug Lyphe	G103 A311-PC-L	Th 09 - 11 Fr 15 - 17	0						4595
+2023	2	EE 207	Electrical Circuits and Logic Design	EE 207_02	Dept.of Electric&Electronics Engineering	2	0	2	3	6	Course	Doug Lyphe	A311-PC-L G103	Th 15 - 17 Fr 10 - 12	0						4595
+2023	2	EE 207	Electrical Circuits and Logic Design	EE 207_03	Dept.of Electric&Electronics Engineering	2	0	2	3	6	Course	Doug Lyphe	G006 A311-PC-L	Th 09 - 11 Fr 13 - 15	0						5011
+2023	2	EE 207	Electrical Circuits and Logic Design	EE 207_04	Dept.of Electric&Electronics Engineering	2	0	2	3	6	Course	Doug Lyphe	A311-PC-L G108	Mo 15 - 17 Fr 10 - 12	0						5011
+2023	2	EE 222	Digital Logic Design	EE 222_01	Dept.of Electric&Electronics Engineering	2	0	2	3	6	Course	Doug Lyphe	G203 A311-PC-L	Tu 09 - 11 Th 09 - 11	0						1983
+2023	2	EE 222	Digital Logic Design	EE 222_02	Dept.of Electric&Electronics Engineering	2	0	2	3	6	Course	Doug Lyphe	G108 A311-PC-L	We 09 - 11 Th 13 - 15	0						1983
+2023	2	EE 252	Microelectronic Devices and Circuits	EE 252_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Doug Lyphe	G009	Mo 09 - 11 Tu 13 - 14	0						252
+2023	2	EE 304	Probability and Random Variables	EE 304_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Doug Lyphe	G205	Mo 14 - 16 Tu 14 - 15	0						843
+2023	2	EE 304	Probability and Random Variables	EE 304_02	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Doug Lyphe	G205	Mo 16 - 17 Tu 15 - 17	0						843
+2023	2	EE 312	Communication Systems I	EE 312_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Doug Lyphe	G103	Th 13 - 15 Fr 12 - 13	0						4595
+2023	2	EE 332	Feedback Control Systems	EE 332_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Brandon Guidelines	G009 G203	Mo 14 - 16 Tu 14 - 15	0						1038
+2023	2	EE 332	Feedback Control Systems	EE 332_02	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Brandon Guidelines	G009 G203	Mo 16 - 17 Tu 15 - 17	0						1038
+2023	2	EE 342	Electromagnetic Theory II	EE 342_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Brandon Guidelines	G205 G009	Mo 13 - 14 Tu 11 - 13	0						309
+2023	2	EE 342-O	Applied Electromagnetics	EE 342-O_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Brandon Guidelines		Mo 13 - 14 Tu 11 - 13	0						309
+2023	2	EE 399	Summer Practice I	EE 399_01	Dept.of Electric&Electronics Engineering	1	0	0	1	2	Internship	Brandon Guidelines		We 19 - 20	0						1038
+2023	2	EE 416	Optical Communications	EE 416_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Doug Lyphe	G203 G010	Tu 13 - 14 We 12 - 14	0						1983
+2023	2	EE 418	Optoelectronics	EE 418_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Doug Lyphe	G009	Mo 13 - 14 Tu 09 - 11	0						252
+2023	2	EE 444	Antenna Engineering	EE 444_01	Dept.of Electric&Electronics Engineering	2	0	2	3	5	Course	Brandon Guidelines	G205 A329	Mo 11 - 13 We 10 - 12	0						309
+2023	2	EE 454	Microprocessors	EE 454_01	Dept.of Electric&Electronics Engineering	2	0	2	3	5	Course	Doug Lyphe	A311-PC-L G103	Mo 09 - 11 Fr 13 - 15	0						5011
+2023	2	EE 464	Power System Protection	EE 464_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Brandon Guidelines	G005	Fr 09 - 12	0						5782
+2023	2	EE 491	Senior Project I	EE 491_01	Dept.of Electric&Electronics Engineering	1	0	4	3	7	Course	Doug Lyphe		We 18 - 19 Fr 18 - 22	0						252
+2023	2	EE 492	Senior Project II	EE 492_01	Dept.of Electric&Electronics Engineering	1	0	4	3	10	Course	Brandon Guidelines		We 18 - 19 Fr 18 - 22	0						1038
+2023	2	EE 492	Senior Project II	EE 492_02	Dept.of Electric&Electronics Engineering	1	0	4	3	10	Course	Brandon Guidelines		We 18 - 19 Fr 18 - 22	0						309
+2023	2	EE 492	Senior Project II	EE 492_03	Dept.of Electric&Electronics Engineering	1	0	4	3	10	Course	Doug Lyphe		We 18 - 19 Fr 18 - 22	0						843
+2023	2	EE 492	Senior Project II	EE 492_04	Dept.of Electric&Electronics Engineering	1	0	4	3	10	Course	Doug Lyphe		We 18 - 19 Fr 18 - 22	0						4098
+2023	2	EE 499	Summer Practice II	EE 499_01	Dept.of Electric&Electronics Engineering	1	0	0	1	2	Internship	Doug Lyphe		We 20 - 21	0						843
+2023	2	EGEP 104	Fundamental Science in Primary School	EGEP 104_01	Primary Education	3	0	0	3	5	Course	Dianne Ameter	D126-EF-L G005	Mo 09 - 11 Tu 11 - 12	0						4404
+2023	2	EGEP 205	Teaching Early Literacy	EGEP 205_01	Primary Education	3	0	0	3	6	Course	Doug Lyphe	G212	We 11 - 13 Th 11 - 13	0						1062
+2023	2	EGEP 251	Children#s Literature	EGEP 251_01	Primary Education	2	0	0	2	4	Course	Dianne Ameter	GB10-PECE-L	We 13 - 15	0						67
+2023	2	EGEP 302	Social Studies Education	EGEP 302_01	Primary Education	3	0	0	3	5	Course	Brandon Guidelines	G212	We 13 - 15 Th 13 - 15	0						4127
+2023	2	EGEP 304	Mathematics Education 2	EGEP 304_01	Primary Education	3	0	0	3	4	Course	Doug Lyphe	D126-EF-L	Tu 11 - 13 We 09 - 11	0						3248
+2023	2	EGEP 305	Science Education	EGEP 305_01	Primary Education	3	0	0	3	4	Course	Dianne Ameter	D126-EF-L	Mo 15 - 17 Tu 09 - 11	0						4404
+2023	2	EGEP 350	Inclusive Language Teaching	EGEP 350_01	Primary Education	2	0	0	2	4	Course	Doug Lyphe	F115	We 13 - 15	0						1062
+2023	2	EGEP 355	Traditional Child Games	EGEP 355_01	Primary Education	2	0	0	2	4	Course	Dianne Ameter	G205	Fr 15 - 17	0						4130
+2023	2	EGEP 402	Character and Values Education	EGEP 402_01	Primary Education	2	0	0	2	3	Course	Brandon Guidelines	D126-EF-L	We 11 - 13	0						4127
+2023	2	EGEP 404	Art Education	EGEP 404_01	Primary Education	3	0	0	3	4	Course	Dianne Ameter	D126-EF-L	Th 09 - 12	0						 00004129 (S) 
+2023	2	ELEP 110	Structure of English	ELEP 110_01	English Language Education	2	0	0	2	2	Course	Brandon Guidelines	G006	Mo 09 - 11 Tu 09 - 11	0						3073
+2023	2	ELEP 110	Structure of English	ELEP 110_02	English Language Education	2	0	0	2	2	Course	Joss Sticks	G006 G105	Tu 16 - 18 Fr 14 - 16	0						3047
+2023	2	ELEP 201	Approaches in Eng.Lang.Learn. and Teach.	ELEP 201_01	English Language Education	2	0	0	2	3	Course	Brandon Guidelines	G212 D126-EF-L	Tu 11 - 12 We 16 - 18	0						4882
+2023	2	ELEP 201	Approaches in Eng.Lang.Learn. and Teach.	ELEP 201_02	English Language Education	2	0	0	2	3	Course	Brandon Guidelines	D126-EF-L	We 13 - 16	0						 00001817 (S) 
+2023	2	ELEP 203	Linguistics 1	ELEP 203_01	English Language Education	2	0	0	2	3	Course	Brandon Guidelines	G105	We 09 - 12	0						1457
+2023	2	ELEP 203	Linguistics 1	ELEP 203_02	English Language Education	2	0	0	2	3	Course	Brandon Guidelines	G205	Th 09 - 12	0						1457
+2023	2	ELEP 204	Linguistics 2	ELEP 204_01	English Language Education	2	0	0	2	3	Course	Joss Sticks	GB05	We 15 - 17	0						1712
+2023	2	ELEP 250	Language and Society	ELEP 250_01	English Language Education	2	0	0	2	4	Course	Joss Sticks	G103	Fr 15 - 17	0						5642
+2023	2	ELEP 252	Pragmatics and Language Teaching	ELEP 252_01	English Language Education	2	0	0	2	4	Course	Brandon Guidelines	D126-EF-L	Tu 13 - 15	0						1457
+2023	2	ELEP 255	Material Design in ELT	ELEP 255_01	English Language Education	2	0	0	2	4	Course	Brandon Guidelines	D032	Tu 12 - 13 Th 15 - 19	0						1457
+2023	2	ELEP 255	Material Design in ELT	ELEP 255_02	English Language Education	2	0	0	2	4	Course	Brandon Guidelines	F206	Tu 12 - 13 Th 15 - 19	0						3073
+2023	2	ELEP 302	Teaching Foreign Lang. to Young Learn. 2	ELEP 302_01	English Language Education	3	0	0	3	5	Course	Brandon Guidelines	D230 G108	Mo 15 - 17 Th 13 - 15	0						3073
+2023	2	ELEP 302	Teaching Foreign Lang. to Young Learn. 2	ELEP 302_02	English Language Education	3	0	0	3	5	Course	Joss Sticks	G113 G103	Tu 15 - 17 Th 11 - 13	0						5642
+2023	2	ELEP 304	Teaching English Language Skills 2	ELEP 304_01	English Language Education	3	0	0	3	5	Course	Brandon Guidelines	D232	Mo 15 - 17 Th 11 - 13	0						2104
+2023	2	ELEP 304	Teaching English Language Skills 2	ELEP 304_02	English Language Education	3	0	0	3	5	Course	Brandon Guidelines	G105 G113	Mo 15 - 17 Fr 15 - 17	0						5014
+2023	2	ELEP 353	Sociolinguistics and Language Teaching	ELEP 353_01	English Language Education	2	0	0	2	4	Course	Joss Sticks	GB05	We 15 - 17	0						1712
+2023	2	ELEP 355	Teaching Integrated Language Skills	ELEP 355_01	English Language Education	2	0	0	2	4	Course	Brandon Guidelines	G009	Mo 11 - 13	0						3073
+2023	2	ELEP 401	Instructional Design in ELT	ELEP 401_01	English Language Education	3	0	0	3	3	Course	Joss Sticks	G203 G212	Th 09 - 11 Fr 13 - 15	0						5531
+2023	2	ELEP 401	Instructional Design in ELT	ELEP 401_02	English Language Education	3	0	0	3	3	Course	Joss Sticks	G205 GB05	Th 16 - 18 Fr 11 - 13	0						3047
+2023	2	ELEP 402	Testing in English Lang.Teaching (ELT)	ELEP 402_01	English Language Education	3	0	0	3	4	Course	Joss Sticks	GB05	We 12 - 15	0						326
+2023	2	ELEP 402	Testing in English Lang.Teaching (ELT)	ELEP 402_02	English Language Education	3	0	0	3	4	Course	Joss Sticks	G112	Th 09 - 12	0						326
+2023	2	ELL 102	History of English Literature II	ELL 102_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Brandon Guidelines	D032	Mo 14 - 17	0						1505
+2023	2	ELL 102	History of English Literature II	ELL 102_02	Dep. of English Language and Literature	3	0	0	3	6	Course	Brandon Guidelines	K085	Mo 14 - 17	0						569
+2023	2	ELL 104	Research Methods in the Humanities	ELL 104_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Brandon Guidelines	K085	We 09 - 12	0						1505
+2023	2	ELL 104	Research Methods in the Humanities	ELL 104_02	Dep. of English Language and Literature	3	0	0	3	6	Course	Brandon Guidelines	D228	We 14 - 17	0						1505
+2023	2	ELL 202	Survey of English Literature II	ELL 202_01	Dep. of English Language and Literature	3	0	0	3	8	Course	Brandon Guidelines	K184	Mo 09 - 12	0						1505
+2023	2	ELL 204	Introduction to Fiction	ELL 204_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Brandon Guidelines	K085	We 12 - 15	0						1506
+2023	2	ELL 212-N	Perspectives in Cultural Studies	ELL 212-N_01	Dep. of English Language and Literature	3	0	0	3	7	Course	Brandon Guidelines	K084	Tu 12 - 15	0						1506
+2023	2	ELL 214	Gothic	ELL 214_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Brandon Guidelines	G112	Tu 09 - 12	0						3869
+2023	2	ELL 302	Shakespeare I	ELL 302_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Brandon Guidelines	G108	Mo 12 - 15	0						1400
+2023	2	ELL 304-O	Modern and Contemporary English Poetry	ELL 304-O_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Brandon Guidelines	K085	Tu 15 - 18	0						4941
+2023	2	ELL 316	Satire	ELL 316_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Brandon Guidelines	G205	Fr 12 - 15	0						1400
+2023	2	ELL 318	Creative Writing	ELL 318_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Brandon Guidelines	G005	Th 14 - 17	0						4941
+2023	2	ELL 404	Adaptation Studies	ELL 404_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Brandon Guidelines	K084	Fr 11 - 14	0						3869
+2023	2	ELL 406-O	Graduation Project	ELL 406-O_01	Dep. of English Language and Literature	3	4	0	5	10	Course	Brandon Guidelines		Fr 18 - 21	0						1505
+2023	2	ELL 406-O	Graduation Project	ELL 406-O_02	Dep. of English Language and Literature	3	4	0	5	10	Course	Brandon Guidelines		Fr 18 - 21	0						1506
+2023	2	ELL 406-O	Graduation Project	ELL 406-O_03	Dep. of English Language and Literature	3	4	0	5	10	Course	Brandon Guidelines		Fr 18 - 21	0						3869
+2023	2	ELL 406-O	Graduation Project	ELL 406-O_04	Dep. of English Language and Literature	3	4	0	5	10	Course	Brandon Guidelines		Fr 18 - 21	0						1400
+2023	2	ELL 406-O	Graduation Project	ELL 406-O_05	Dep. of English Language and Literature	3	4	0	5	10	Course	Brandon Guidelines		Fr 18 - 21	0						3253
+2023	2	ELL 406-O	Graduation Project	ELL 406-O_06	Dep. of English Language and Literature	3	4	0	5	10	Course	Brandon Guidelines		Fr 18 - 21	0						4941
+2023	2	ELL 408	Comparative Literature	ELL 408_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Brandon Guidelines	G113	We 11 - 14	0						3869
+2023	2	ELT 102	Practicum 1	ELT 102_01	English Language Education	1	4	0	3	6	Course	Brandon Guidelines	G212	Tu 12 - 13 Fr 09 - 13	0						4882
+2023	2	ELT 102	Practicum 1	ELT 102_02	English Language Education	1	4	0	3	6	Course	Brandon Guidelines	D232	Th 13 - 14 Fr 09 - 13	0						2104
+2023	2	ELT 102	Practicum 1	ELT 102_03	English Language Education	1	4	0	3	6	Course	Brandon Guidelines	G113	Fr 09 - 13 Fr 17 - 18	0						5014
+2023	2	ELT 104	Approaches in English Language Teaching	ELT 104_01	English Language Education	3	0	0	3	4	Course	Brandon Guidelines	G212 D126-EF-L	Tu 11 - 12 We 16 - 18	0						4882
+2023	2	ELT 104	Approaches in English Language Teaching	ELT 104_02	English Language Education	3	0	0	3	4	Course	Brandon Guidelines	D126-EF-L	We 13 - 16	0						 00001817 (S) 
+2023	2	ELT 106	Linguistics	ELT 106_01	English Language Education	3	0	0	3	5	Course	Brandon Guidelines	G105	We 09 - 12	0						1457
+2023	2	ELT 106	Linguistics	ELT 106_02	English Language Education	3	0	0	3	5	Course	Brandon Guidelines	G205	Th 09 - 12	0						1457
+2023	2	ELT 108	Teaching Grammar	ELT 108_01	English Language Education	2	2	0	3	5	Course	Brandon Guidelines	G006	Mo 09 - 11 Tu 09 - 11	0						3073
+2023	2	ELT 108	Teaching Grammar	ELT 108_02	English Language Education	2	2	0	3	5	Course	Joss Sticks	G006 G105	Tu 16 - 18 Fr 14 - 16	0						3047
+2023	2	ELT 200	Observation at Different Edu. Levels	ELT 200_01	English Language Education	1	4	0	3	6	Course	Brandon Guidelines	D032	Tu 12 - 13 Th 15 - 19	0						1457
+2023	2	ELT 200	Observation at Different Edu. Levels	ELT 200_02	English Language Education	1	4	0	3	6	Course	Brandon Guidelines	F206	Tu 12 - 13 Th 15 - 19	0						3073
+2023	2	ELT 202	Teaching English to Young Learners 2	ELT 202_01	English Language Education	2	2	0	3	8	Course	Brandon Guidelines	D230 G108	Mo 15 - 17 Th 13 - 15	0						3073
+2023	2	ELT 202	Teaching English to Young Learners 2	ELT 202_02	English Language Education	2	2	0	3	8	Course	Joss Sticks	G113 G103	Tu 15 - 17 Th 11 - 13	0						5642
+2023	2	ELT 230	Teaching Integrated Skills	ELT 230_01	English Language Education	2	0	0	2	4	Course	Brandon Guidelines	G009	Mo 11 - 13	0						3073
+2023	2	ELT 260	Psychology of Language Learning&Teaching	ELT 260_01	English Language Education	2	0	0	2	4	Course	Brandon Guidelines	D126-EF-L	Tu 13 - 15	0						1457
+2023	2	ELT 290	Sustainable Development in ELT	ELT 290_01	English Language Education	2	0	0	2	4	Course	Joss Sticks	G103	Fr 15 - 17	0						5642
+2023	2	ELT 302	Teaching Listening Skills	ELT 302_01	English Language Education	2	2	0	3	6	Course	Brandon Guidelines	D232	Mo 15 - 17 Th 11 - 13	0						2104
+2023	2	ELT 302	Teaching Listening Skills	ELT 302_02	English Language Education	2	2	0	3	6	Course	Brandon Guidelines	G105 G113	Mo 15 - 17 Fr 15 - 17	0						5014
+2023	2	ELT 304	Materials Adaptation & Evaluation in ELT	ELT 304_01	English Language Education	2	2	0	3	8	Course	Joss Sticks	G203 G212	Th 09 - 11 Fr 13 - 15	0						5531
+2023	2	ELT 304	Materials Adaptation & Evaluation in ELT	ELT 304_02	English Language Education	2	2	0	3	8	Course	Joss Sticks	G205 GB05	Th 16 - 18 Fr 11 - 13	0						3047
+2023	2	ELT 402	Practice Teaching 2	ELT 402_01	English Language Education	2	6	0	5	10	Course	Joss Sticks	F115	Mo 13 - 19 Fr 09 - 11	0						5531
+2023	2	ELT 402	Practice Teaching 2	ELT 402_02	English Language Education	2	6	0	5	10	Course	Joss Sticks	F212	Mo 13 - 19 Fr 09 - 11	0						5642
+2023	2	ELT 402	Practice Teaching 2	ELT 402_03	English Language Education	2	6	0	5	10	Course	Joss Sticks	F204	Mo 13 - 19 Fr 09 - 11	0						1712
+2023	2	ELT 402	Practice Teaching 2	ELT 402_04	English Language Education	2	6	0	5	10	Course	Joss Sticks	F206	Mo 13 - 19 Fr 09 - 11	0						326
+2023	2	EMT 102	Practicum 1	EMT 102_01	Mathematics Education	1	4	0	3	6	Course	Claire Voyant	G009	Mo 09 - 13 Th 10 - 11	0						2573
+2023	2	EMT 102	Practicum 1	EMT 102_02	Mathematics Education	1	4	0	3	6	Course	Joss Sticks		Mo 09 - 13 Th 10 - 11	0						1048
+2023	2	EMT 104	Calculus 2	EMT 104_01	Mathematics Education	3	2	0	4	6	Course	Claire Voyant	G213 G009	Tu 14 - 16 We 09 - 11 Th 09 - 10	0						2573
+2023	2	EMT 106	Basic Geometry	EMT 106_01	Mathematics Education	3	0	0	3	5	Course	Claire Voyant	G113 G005	We 14 - 16 Th 13 - 14	0						2573
+2023	2	EMT 108	History of Mathematics	EMT 108_01	Mathematics Education	2	0	0	2	3	Course	Claire Voyant	G213	Tu 12 - 14	0						 00005808 (S) 
+2023	2	EMT 202	Mathematics Teaching 1	EMT 202_01	Mathematics Education	2	2	0	3	8	Course	Joss Sticks	G003	We 12 - 14 Th 09 - 11	0						2095
+2023	2	EMT 204	Materials Design in Mathematics Educ.	EMT 204_01	Mathematics Education	2	2	0	3	7	Course	Claire Voyant	D126-EF-L	Mo 13 - 15 Fr 15 - 17	0						1060
+2023	2	EMT 260	Activity Development in Mathematics Educ	EMT 260_01	Mathematics Education	1	2	0	2	3	Course	Claire Voyant	G203	Fr 15 - 18	0						5526
+2023	2	EMT 290	Teaching Mathematics Through Play	EMT 290_01	Mathematics Education	1	2	0	2	3	Course	Joss Sticks	G203	Fr 12 - 15	0						1048
+2023	2	EMT 302	Mathematics Teaching 3	EMT 302_01	Mathematics Education	2	2	0	3	8	Course	Joss Sticks	G113	We 09 - 11 Fr 09 - 11	0						3016
+2023	2	EMT 304	Technology in Mathematics Education	EMT 304_01	Mathematics Education	2	2	0	3	7	Course	Joss Sticks	G205 G113	Mo 09 - 11 Th 09 - 11	0						1828
+2023	2	EMT 306	Statistics and Probability 2	EMT 306_01	Mathematics Education	2	0	0	2	6	Course	Joss Sticks	G009	We 14 - 16	0						3016
+2023	2	ENG 101	English for Academic Purposes	ENG 101_01	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F117 F214	Tu 09 - 11 Th 15 - 17	0						
+2023	2	ENG 101	English for Academic Purposes	ENG 101_02	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F212 F204	Tu 11 - 13 Th 13 - 15	0						
+2023	2	ENG 101	English for Academic Purposes	ENG 101_03	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G105	Tu 16 - 18 Th 13 - 15	0						
+2023	2	ENG 101	English for Academic Purposes	ENG 101_04	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F212 F206	Tu 09 - 11 Th 09 - 11	0						
+2023	2	ENG 101	English for Academic Purposes	ENG 101_05	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		GB05	Tu 15 - 17 Th 16 - 18	0						
+2023	2	ENG 101	English for Academic Purposes	ENG 101_06	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F204 G112	Mo 12 - 14 We 15 - 17	0						
+2023	2	ENG 101	English for Academic Purposes	ENG 101_07	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G003 G112	Mo 14 - 16 We 13 - 15	0						
+2023	2	ENG 101	English for Academic Purposes	ENG 101_08	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G112 G213	Tu 15 - 17 Th 14 - 16	0						
+2023	2	ENG 101	English for Academic Purposes	ENG 101_09	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F206 F204	Mo 09 - 11 Th 09 - 11	0						
+2023	2	ENG 101	English for Academic Purposes	ENG 101_10	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F214 F115	Tu 11 - 13 Th 09 - 11	0						
+2023	2	ENG 102	Expository Writing	ENG 102_01	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G005 F117	Mo 16 - 18 We 16 - 18	0						
+2023	2	ENG 102	Expository Writing	ENG 102_02	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G005 F117	Mo 14 - 16 We 14 - 16	0						
+2023	2	ENG 102	Expository Writing	ENG 102_03	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F117 F115	Tu 14 - 16 Th 14 - 16	0						
+2023	2	ENG 102	Expository Writing	ENG 102_04	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F117 F115	Tu 16 - 18 Th 16 - 18	0						
+2023	2	ENG 102	Expository Writing	ENG 102_05	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F115	We 11 - 13 Fr 16 - 18	0						
+2023	2	ENG 102	Expository Writing	ENG 102_06	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F115	We 09 - 11 Fr 14 - 16	0						
+2023	2	ENG 102	Expository Writing	ENG 102_07	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G010 F212	Tu 09 - 11 Th 16 - 18	0						
+2023	2	ENG 102	Expository Writing	ENG 102_08	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G010 F212	Tu 11 - 13 Th 14 - 16	0						
+2023	2	ENG 102	Expository Writing	ENG 102_09	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		A435	We 11 - 13 Fr 09 - 11	0						
+2023	2	ENG 102	Expository Writing	ENG 102_10	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		A435	We 13 - 15 Fr 11 - 13	0						
+2023	2	ENG 102	Expository Writing	ENG 102_11	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F117	Tu 11 - 13 Th 11 - 13	0						
+2023	2	ENG 102	Expository Writing	ENG 102_12	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F115 F117	Tu 13 - 15 Th 09 - 11	0						
+2023	2	ENG 102	Expository Writing	ENG 102_13	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F204 F206	Tu 11 - 13 Th 14 - 16	0						
+2023	2	ENG 102	Expository Writing	ENG 102_14	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G113 G009	Mo 14 - 16 We 12 - 14	0						
+2023	2	ENG 102	Expository Writing	ENG 102_15	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F204	Tu 09 - 11 Th 11 - 13	0						
+2023	2	ENG 102	Expository Writing	ENG 102_16	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G212	Mo 11 - 13 We 15 - 17	0						
+2023	2	ENG 102	Expository Writing	ENG 102_17	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F117 A422	Mo 09 - 11 We 09 - 11	0						
+2023	2	ENG 102	Expository Writing	ENG 102_18	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F117 A422	Mo 11 - 13 We 11 - 13	0						
+2023	2	ENG 102	Expository Writing	ENG 102_19	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G208	Tu 11 - 13 Th 09 - 11	0						
+2023	2	ENG 102	Expository Writing	ENG 102_20	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G208	Tu 09 - 11 Th 11 - 13	0						
+2023	2	ENG 102	Expository Writing	ENG 102_21	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		G203 F214	We 09 - 11 Fr 09 - 11	0						
+2023	2	ENG 102	Expository Writing	ENG 102_22	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F117 F214	We 12 - 14 Fr 11 - 13	0						
+2023	2	ENG 102	Expository Writing	ENG 102_23	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F214 G105	Tu 13 - 15 Th 09 - 11	0						
+2023	2	ENG 102	Expository Writing	ENG 102_24	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F214 G105	Tu 15 - 17 Th 11 - 13	0						
+2023	2	ENG 102	Expository Writing	ENG 102_25	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		D228 D030	Mo 09 - 11 We 13 - 15	0						
+2023	2	ENG 102	Expository Writing	ENG 102_26	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F115 F206	Mo 12 - 14 We 16 - 18	0						
+2023	2	ENG 102	Expository Writing	ENG 102_27	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		D026 D228	Tu 11 - 13 Th 13 - 15	0						
+2023	2	ENG 102	Expository Writing	ENG 102_28	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		D026 D228	Tu 15 - 18 Th 15 - 18	0						
+2023	2	ENG 102	Expository Writing	ENG 102_29	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F204 F214	We 14 - 16 Fr 13 - 15	0						
+2023	2	ENG 102	Expository Writing	ENG 102_30	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F214	Tu 09 - 11 Th 09 - 11	0						
+2023	2	ENG 102	Expository Writing	ENG 102_31	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F204	We 12 - 14 Fr 11 - 13	0						
+2023	2	ENG 102	Expository Writing	ENG 102_32	Basic Sciences	2	2	0	3	5	Mandatory (YOK)		F212 F214	Tu 13 - 15 Th 13 - 15	0						
+2023	2	ENG 111	Advanced English for Academic Purposes	ENG 111_01	Dep. of English Language and Literature	3	0	0	3	5	Course		F212 F206	Mo 11 - 13 We 12 - 13	0						
+2023	2	ENG 112	Advanced Writing	ENG 112_01	Dep. of English Language and Literature	3	0	0	3	5	Course		F212 D228	Mo 09 - 11 We 13 - 14	0						
+2023	2	ENG 112	Advanced Writing	ENG 112_02	Dep. of English Language and Literature	3	0	0	3	5	Course		F206 F117	Tu 16 - 18 Th 13 - 14	0						
+2023	2	ENG 112	Advanced Writing	ENG 112_03	Dep. of English Language and Literature	3	0	0	3	5	Course		G003 F117	Tu 12 - 13 Th 14 - 16	0						
+2023	2	ENG 204	Professional Communication in English	ENG 204_01	Basic Sciences	3	0	0	3	5	Course		D230 G103	We 09 - 11 Fr 09 - 10	0						
+2023	2	ENG 204	Professional Communication in English	ENG 204_02	Basic Sciences	3	0	0	3	5	Course		G105 F204	We 12 - 13 Fr 13 - 15	0						
+2023	2	ENG 204	Professional Communication in English	ENG 204_03	Basic Sciences	3	0	0	3	5	Course		G005 G213	Tu 15 - 17 Th 12 - 13	0						
+2023	2	ENG 204	Professional Communication in English	ENG 204_04	Basic Sciences	3	0	0	3	5	Course		K184 G212	Tu 13 - 14 Th 09 - 11	0						
+2023	2	ENG 204	Professional Communication in English	ENG 204_05	Basic Sciences	3	0	0	3	5	Course		F115 G213	Tu 09 - 11 Th 13 - 14	0						
+2023	2	FREN 102	French II	FREN 102_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Claire Voyant	G113	Tu 09 - 12	0						 00004803 (S) 
+2023	2	FREN 102	French II	FREN 102_02	Dep. of English Language and Literature	3	0	0	3	5	Course	Claire Voyant	G003	Tu 13 - 16	0						 00004803 (S) 
+2023	2	FREN 202	French IV	FREN 202_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Claire Voyant	G003	Tu 16 - 19	0						 00004803 (S) 
+2023	2	GENC 351	Media Literacy	GENC 351_01	General Culture Courses Coordinator	2	0	0	2	3	Course	Joss Sticks	G108	Tu 13 - 15	0						 00002569 (S) 
+2023	2	GENC 357	Turkish Classical Music	GENC 357_01	General Culture Courses Coordinator	2	0	0	2	3	Course	Dianne Ameter	D126-EF-L	Th 13 - 15	0						 00004129 (S) 
+2023	2	GER 101	Elementary German I	GER 101_01	Basic Sciences	3	0	0	3	5	Course	Claire Voyant	G212	Tu 16 - 19	0						 00000501 (S) 
+2023	2	GER 101	Elementary German I	GER 101_02	Basic Sciences	3	0	0	3	5	Course	Claire Voyant	G009	We 16 - 19	0						 00000501 (S) 
+2023	2	GER 101	Elementary German I	GER 101_03	Basic Sciences	3	0	0	3	5	Course	Claire Voyant	G009	Th 16 - 19	0						 00000501 (S) 
+2023	2	GER 102	Elementary German II	GER 102_01	Basic Sciences	3	0	0	3	5	Course	Claire Voyant	G005	Tu 12 - 15	0						 00000501 (S) 
+2023	2	HIST 101	History of Turkish Republic I	HIST 101_01	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Claire Voyant	Online	We 20 - 22	0						486
+2023	2	HIST 101	History of Turkish Republic I	HIST 101_02	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Claire Voyant	Online	Fr 20 - 22	0						486
+2023	2	HIST 102	History of Turkish Republic II	HIST 102_01	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Claire Voyant	Online	Mo 18 - 20	0						486
+2023	2	HIST 102	History of Turkish Republic II	HIST 102_02	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Claire Voyant	Online	Tu 18 - 20	0						486
+2023	2	HIST 102	History of Turkish Republic II	HIST 102_03	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Claire Voyant	Online	We 18 - 20	0						486
+2023	2	HIST 102	History of Turkish Republic II	HIST 102_04	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Claire Voyant	Online	Th 18 - 20	0						486
+2023	2	HIST 102	History of Turkish Republic II	HIST 102_05	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Claire Voyant	Online	Fr 18 - 20	0						486
+2023	2	HUM 101	World History I	HUM 101_01	Basic Sciences	3	0	0	3	5	Course	Jane Doe	DB14	Th 13 - 16	0						 00004165 (S) 
+2023	2	HUM 101	World History I	HUM 101_02	Basic Sciences	3	0	0	3	5	Course	Jane Doe	G005	Fr 13 - 16	0						 00004165 (S) 
+2023	2	HUM 102	World History II	HUM 102_01	Basic Sciences	3	0	0	3	5	Course	Claire Voyant	DB16	Tu 16 - 19	0						486
+2023	2	ID 102	Basics of Three Dimensional Design	ID 102_01	Department of Industrial Design	2	8	0	6	11	Course	Jane Doe		Mo 13 - 15 Mo 09 - 12 Th 09 - 12 Th 13 - 15	0						" 00001511 , 00001508 , 00005674 (S) "
+2023	2	ID 102-O	Basics of Three Dimensional Design	ID 102-O_01	Department of Industrial Design	2	8	0	6	10	Course	Jane Doe		Mo 09 - 12 Mo 13 - 15 Th 09 - 12 Th 13 - 15	0						" 00001511 , 00005674 (S) , 00001508 "
+2023	2	ID 112	Visual Communication Techniques II	ID 112_01	Department of Industrial Design	2	2	0	3	5	Course	Jane Doe		We 09 - 13	0						2783
+2023	2	ID 121	Introduction to Industrial Design	ID 121_01	Department of Industrial Design	3	0	0	3	5	Course	Jane Doe	G010	We 14 - 17	0						1508
+2023	2	ID 122	Introduction to Industrial Design	ID 122_01	Department of Industrial Design	3	0	0	3	5	Course	Jane Doe		We 14 - 17	0						1508
+2023	2	ID 202	Industrial Design II	ID 202_01	Department of Industrial Design	2	8	0	6	11	Course	Jane Doe		Tu 13 - 17 Tu 09 - 12 Fr 09 - 12	0						" 00001507 , 00003941 (S) "
+2023	2	ID 272	Manufacturing Materials and Technologies	ID 272_01	Department of Industrial Design	3	0	0	3	5	Course	Jane Doe	G203	We 14 - 17	0						2783
+2023	2	ID 302	Industrial Design IV	ID 302_01	Department of Industrial Design	2	8	0	6	11	Course	Jane Doe		Tu 09 - 12 Fr 09 - 12 Fr 13 - 17	0						" 00004824 (S) , 00004832 (S) , 00002628 "
+2023	2	ID 311	Model Making	ID 311_01	Department of Industrial Design	2	2	0	3	5	Course	Jane Doe		Th 09 - 12	0						 00003941 (S) 
+2023	2	ID 312	Computer Graphics and Presentation Techn	ID 312_01	Department of Industrial Design	2	2	0	3	5	Course	Jane Doe	Online	We 13 - 16	0						 00005673 (S) 
+2023	2	ID 320	Sustainable Living and Design	ID 320_01	Department of Industrial Design	2	2	0	3	5	Course	Jane Doe	F206	We 09 - 12	0						1508
+2023	2	ID 362-O	Research in Design	ID 362-O_01	Department of Industrial Design	1	2	0	2	4	Course	Jane Doe	G112	Th 13 - 16	0						2628
+2023	2	ID 399-O	Summer Practice I: Manufacturing	ID 399-O_01	Department of Industrial Design	0	0	0	0	2	Internship	Jane Doe		Fr 19 - 20	0						2783
+2023	2	ID 402-O	Industrial Design VI	ID 402-O_01	Department of Industrial Design	2	8	0	6	12	Course	Jane Doe		Tu 13 - 17 Tu 09 - 12 Fr 09 - 12	0						" 00005675 (S) , 00005673 (S) , 00002783 "
+2023	2	ID 430	Design For User Experience	ID 430_01	Department of Industrial Design	2	2	0	3	5	Course	Jane Doe	F206	Mo 13 - 16	0						1507
+2023	2	ID 499-O	Summer Practice II: Design Office	ID 499-O_01	Department of Industrial Design	0	0	0	0	2	Internship	Jane Doe		Fr 20 - 21	0						2628
+2023	2	IE 212	Lean Process Design	IE 212_01	Department of Industrial Engineering	3	0	0	3	6	Course	Jane Doe	A437	We 14 - 15 Th 16 - 18	0						5021
+2023	2	IE 222	Engineering Economy & Cost Analysis	IE 222_01	Department of Industrial Engineering	3	0	0	3	6	Course	Jane Doe	A422	Tu 12 - 14 We 13 - 14	0						2621
+2023	2	IE 232	Mathematical Modeling and Optimization I	IE 232_01	Department of Industrial Engineering	3	0	0	3	6	Course	John Doe	A422	Mo 15 - 16 Tu 15 - 17	0						39
+2023	2	IE 312	Manufac & Service Operations Planning II	IE 312_01	Department of Industrial Engineering	3	0	0	3	6	Course	Jane Doe	A422	Mo 13 - 15 Tu 11 - 12	0						2621
+2023	2	IE 316	Quality Planning and Control	IE 316_01	Department of Industrial Engineering	3	0	0	3	7	Course	John Doe	A422 A437	Mo 11 - 13 Tu 12 - 13	0						39
+2023	2	IE 332	Mathematical Modeling & Optimization III	IE 332_01	Department of Industrial Engineering	3	0	0	3	6	Course	John Doe	A316-L	Tu 13 - 14 We 10 - 12	0						478
+2023	2	IE 399	Summer Practice I	IE 399_01	Department of Industrial Engineering	1	0	0	1	3	Internship	John Doe		Mo 18 - 19	0						39
+2023	2	IE 466	Humanitarian Logistics	IE 466_01	Department of Industrial Engineering	3	0	0	3	5	Course	John Doe	A316-L	Tu 10 - 11 We 13 - 15	0						478
+2023	2	IE 492	Senior Project II	IE 492_01	Department of Industrial Engineering	1	4	0	3	6	Course	Jane Doe	A316-L	We 16 - 18	0						2621
+2023	2	IE 492	Senior Project II	IE 492_02	Department of Industrial Engineering	1	4	0	3	6	Course	John Doe		We 16 - 18	0						478
+2023	2	IE 492	Senior Project II	IE 492_03	Department of Industrial Engineering	1	4	0	3	6	Course	John Doe		We 16 - 18	0						478
+2023	2	IE 499	Summer Practice II	IE 499_01	Department of Industrial Engineering	1	0	0	1	2	Internship	John Doe		Tu 18 - 19	0						39
+2023	2	ITA 101	Elementary Italian I	ITA 101_01	Basic Sciences	3	0	0	3	5	Course	John Doe	G009	Th 13 - 16	0						 00003070 (S) 
+2023	2	ITA 101	Elementary Italian I	ITA 101_02	Basic Sciences	3	0	0	3	5	Course	John Doe	G009	Fr 13 - 16	0						 00003070 (S) 
+2023	2	ITA 102	Elementary Italian II	ITA 102_01	Basic Sciences	3	0	0	3	5	Course	John Doe	G009	Fr 16 - 19	0						 00003070 (S) 
+2023	2	JAP 101	Elementary Japanese I	JAP 101_01	Basic Sciences	3	0	0	3	5	Course	John Doe	F212	We 16 - 19	0						 00005686 (S) 
+2023	2	LAW 263	Fundamental Principles of Law	LAW 263_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	6	Course	Will Barrow	DB20	We 09 - 12	0						279
+2023	2	LAW 452	Turkish Tax Law	LAW 452_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course		G212	Mo 13 - 16	0						
+2023	2	LAW 480	Social Media and Law	LAW 480_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course		G112	Fr 09 - 12	0						
+2023	2	LIBE 110	Critical Perspectives on Humanity	LIBE 110_01	Basic Sciences	3	0	0	3	5	Course		K183	Mo 09 - 12	0						
+2023	2	LIBE 110	Critical Perspectives on Humanity	LIBE 110_02	Basic Sciences	3	0	0	3	5	Course		DB14	Mo 13 - 16	0						
+2023	2	LIBE 110	Critical Perspectives on Humanity	LIBE 110_03	Basic Sciences	3	0	0	3	5	Course		DB18	We 13 - 16	0						
+2023	2	LIBE 110	Critical Perspectives on Humanity	LIBE 110_04	Basic Sciences	3	0	0	3	5	Course		K184	We 09 - 12	0						
+2023	2	LIBE 110	Critical Perspectives on Humanity	LIBE 110_05	Basic Sciences	3	0	0	3	5	Course		D230	Fr 16 - 19	0						
+2023	2	LIBE 110	Critical Perspectives on Humanity	LIBE 110_06	Basic Sciences	3	0	0	3	5	Course		DB14	Tu 11 - 14	0						
+2023	2	LIBE 110	Critical Perspectives on Humanity	LIBE 110_07	Basic Sciences	3	0	0	3	5	Course		K184	We 13 - 16	0						
+2023	2	LIBE 110	Critical Perspectives on Humanity	LIBE 110_08	Basic Sciences	3	0	0	3	5	Course		K184	Th 13 - 16	0						
+2023	2	LIBE 110	Critical Perspectives on Humanity	LIBE 110_09	Basic Sciences	3	0	0	3	5	Course		K184	Fr 13 - 16	0						
+2023	2	LIBE 120	Foundations and Frontiers of Science	LIBE 120_01	Basic Sciences	2	0	2	3	5	Course		K183	Mo 13 - 14 Tu 16 - 18	0						
+2023	2	LIBE 120	Foundations and Frontiers of Science	LIBE 120_02	Basic Sciences	2	0	2	3	5	Course		K183	Mo 14 - 15 We 13 - 15	0						
+2023	2	LIBE 120	Foundations and Frontiers of Science	LIBE 120_03	Basic Sciences	2	0	2	3	5	Course		K183	Mo 15 - 16 We 16 - 18	0						
+2023	2	LIBE 120	Foundations and Frontiers of Science	LIBE 120_04	Basic Sciences	2	0	2	3	5	Course		K183	Mo 16 - 18 Th 13 - 14	0						
+2023	2	LIBE 120	Foundations and Frontiers of Science	LIBE 120_05	Basic Sciences	2	0	2	3	5	Course		K184	Tu 16 - 18 Th 09 - 10	0						
+2023	2	LIBE 130	Art and Design	LIBE 130_01	Basic Sciences	3	0	0	3	5	Course		K084	Mo 12 - 15	0						
+2023	2	LIBE 130	Art and Design	LIBE 130_02	Basic Sciences	3	0	0	3	5	Course		K085	Tu 12 - 15	0						
+2023	2	LIBE 130	Art and Design	LIBE 130_03	Basic Sciences	3	0	0	3	5	Course		K085	We 15 - 18	0						
+2023	2	LIBE 130	Art and Design	LIBE 130_04	Basic Sciences	3	0	0	3	5	Course		K085	Th 12 - 15	0						
+2023	2	LIBE 140	Social and Political Studies	LIBE 140_01	Basic Sciences	3	0	0	3	5	Course		G105	Mo 12 - 15	0						
+2023	2	LIBE 140	Social and Political Studies	LIBE 140_02	Basic Sciences	3	0	0	3	5	Course		G006	Mo 16 - 19	0						
+2023	2	LIBE 140	Social and Political Studies	LIBE 140_03	Basic Sciences	3	0	0	3	5	Course		G213	We 13 - 16	0						
+2023	2	LIBE 140	Social and Political Studies	LIBE 140_04	Basic Sciences	3	0	0	3	5	Course		G112	Fr 16 - 19	0						
+2023	2	LIBE 140	Social and Political Studies	LIBE 140_05	Basic Sciences	3	0	0	3	5	Course		G103	We 09 - 12	0						
+2023	2	LIBE 140	Social and Political Studies	LIBE 140_06	Basic Sciences	3	0	0	3	5	Course		G208	Th 16 - 19	0						
+2023	2	LIBE 140	Social and Political Studies	LIBE 140_07	Basic Sciences	3	0	0	3	5	Course		G205	Fr 09 - 12	0						
+2023	2	LIBE 140	Social and Political Studies	LIBE 140_08	Basic Sciences	3	0	0	3	5	Course		G010	Fr 13 - 16	0						
+2023	2	LIBE 150	Critical Perspectives in World Literatur	LIBE 150_01	Basic Sciences	3	0	0	3	5	Course		DB14	We 14 - 17	0						
+2023	2	LIBE 150	Critical Perspectives in World Literatur	LIBE 150_02	Basic Sciences	3	0	0	3	5	Course		D234	Fr 15 - 18	0						
+2023	2	LIT 100	World Literature	LIT 100_01	Basic Sciences	3	0	0	3	5	Course	John Doe	D032	Th 09 - 12	0						 00002580 (S) 
+2023	2	LIT 100	World Literature	LIT 100_02	Basic Sciences	3	0	0	3	5	Course	John Doe	DB16	Th 13 - 16	0						 00002580 (S) 
+2023	2	MATE 301	Teaching Numeracy	MATE 301_01	Mathematics Education	3	0	0	3	5	Course	Joss Sticks	G003	We 12 - 14 Th 09 - 11	0						2095
+2023	2	MATE 304	Teaching of Probability and Statistics	MATE 304_01	Mathematics Education	3	0	0	3	4	Course	Joss Sticks	G113	We 09 - 11 Fr 09 - 11	0						3016
+2023	2	MATE 305	Statistics	MATE 305_01	Mathematics Education	2	0	0	2	2	Course	Joss Sticks	G009	We 14 - 16	0						3016
+2023	2	MATE 350	Activity Development in Math. Teaching	MATE 350_01	Mathematics Education	2	0	0	2	4	Course	Claire Voyant	G203	Fr 15 - 18	0						5526
+2023	2	MATE 351	Materials Design in Mathematics Teaching	MATE 351_01	Mathematics Education	2	0	0	2	4	Course	Claire Voyant	D126-EF-L	Mo 13 - 15 Fr 15 - 17	0						1060
+2023	2	MATE 355	Teaching Mathematics Through Play	MATE 355_01	Mathematics Education	2	0	0	2	4	Course	Joss Sticks	G203	Fr 12 - 15	0						1048
+2023	2	MATE 402	Philosophy of Mathematics	MATE 402_01	Mathematics Education	2	0	0	2	3	Course	Joss Sticks	D232	Mo 13 - 15	0						1828
+2023	2	MATE 404	Modeling in Mathematics Education	MATE 404_01	Mathematics Education	2	0	0	2	4	Course	Joss Sticks	G212	We 09 - 11	0						2095
+2023	2	MATH 101	Calculus of One Variable	MATH 101_01	Mathematics	3	2	0	4	7	Course	John Doe	K184 K183 A514-PC-L	Tu 14 - 16 Th 09 - 11 Fr 15 - 16	0						274
+2023	2	MATH 101	Calculus of One Variable	MATH 101_02	Mathematics	3	2	0	4	7	Course	John Doe	K183 K084 A514-PC-L	We 11 - 13 Th 12 - 14 Fr 14 - 15	0						2637
+2023	2	MATH 101	Calculus of One Variable	MATH 101_03	Mathematics	3	2	0	4	7	Course		D028 A514-PC-L	Mo 09 - 11 We 09 - 11 Th 15 - 16	0						
+2023	2	MATH 102	Multivariable Calculus	MATH 102_01	Mathematics	3	2	0	4	7	Course	John Doe	DB14 A514-PC-L	Mo 09 - 11 We 09 - 11 Th 09 - 10	0						1042
+2023	2	MATH 102	Multivariable Calculus	MATH 102_02	Mathematics	3	2	0	4	7	Course	John Doe	K084 A514-PC-L	Tu 09 - 11 Th 16 - 18 Fr 10 - 11	0						2637
+2023	2	MATH 102	Multivariable Calculus	MATH 102_03	Mathematics	3	2	0	4	7	Course		D032 A514-PC-L	We 14 - 16 Th 13 - 14 Fr 11 - 13	0						
+2023	2	MATH 102	Multivariable Calculus	MATH 102_04	Mathematics	3	2	0	4	7	Course	John Doe	DB14 A514-PC-L	Tu 09 - 11 We 12 - 14 Th 14 - 15	0						1042
+2023	2	MATH 102	Multivariable Calculus	MATH 102_05	Mathematics	3	2	0	4	7	Course	John Doe	DB14 K084 A514-PC-L	Tu 14 - 16 Th 09 - 11 Fr 09 - 10	0						2637
+2023	2	MATH 102	Multivariable Calculus	MATH 102_06	Mathematics	3	2	0	4	7	Course		D032 A514-PC-L D028	We 16 - 18 Th 10 - 11 Fr 14 - 16	0						
+2023	2	MATH 108	Discrete Mathematics	MATH 108_01	Mathematics	3	0	0	3	6	Course	John Doe	A437	Mo 09 - 11 Fr 14 - 15	0						2574
+2023	2	MATH 108-O	Discrete Mathematics	MATH 108-O_1	Mathematics	3	0	0	3	5	Course	John Doe		Mo 09 - 11 Fr 14 - 15	0						2574
+2023	2	MATH 111	Introduction to Calculus of One Variable	MATH 111_01	Mathematics	3	2	0	4	7	Course	Albert Ross	DB18 DB16 A514-PC-L	Mo 11 - 13 We 11 - 13 Fr 11 - 12	0						2610
+2023	2	MATH 111	Introduction to Calculus of One Variable	MATH 111_02	Mathematics	3	2	0	4	7	Course	Albert Ross	DB16 A514-PC-L	Tu 11 - 13 Th 11 - 13 Fr 12 - 13	0						2610
+2023	2	MATH 113	Calculus I	MATH 113_01	Mathematics	4	0	1	4	8	Course	John Doe	A437 A211-PC-L	Mo 14 - 16 We 15 - 17 Th 11 - 12	0						1042
+2023	2	MATH 113-O	Calculus I	MATH 113-O_1	Mathematics	3	1	1	4	7	Course	John Doe		Mo 14 - 16 We 15 - 17 Th 11 - 12	0						1042
+2023	2	MATH 114	Calculus II	MATH 114_01	Mathematics	4	0	1	4	8	Course	John Doe	A437 A211-PC-L	Mo 12 - 14 Tu 15 - 17 Fr 11 - 12	0						1042
+2023	2	MATH 114-O	Calculus II	MATH 114-O_1	Mathematics	3	1	1	4	7	Course	John Doe		Mo 12 - 14 Tu 15 - 17 Fr 11 - 12	0						1042
+2023	2	MATH 115	Mathematics for Social Sciences I	MATH 115_01	Mathematics	3	1	1	4	7	Course	Albert Ross	DB18 DB16 A514-PC-L	Mo 09 - 11 We 09 - 11 Th 16 - 17	0						2610
+2023	2	MATH 115	Mathematics for Social Sciences I	MATH 115_02	Mathematics	3	1	1	4	7	Course	Albert Ross	DB16 A514-PC-L	Tu 09 - 11 Th 09 - 11 Fr 16 - 17	0						2610
+2023	2	MATH 116	Mathematics for Social Sciences II	MATH 116_01	Mathematics	3	1	1	4	7	Course	Albert Ross	DB18 D028 A514-PC-L	Mo 15 - 17 We 13 - 15 Th 11 - 12	0						4103
+2023	2	MATH 116	Mathematics for Social Sciences II	MATH 116_02	Mathematics	3	1	1	4	7	Course	Albert Ross	DB18 D028 A514-PC-L	Mo 13 - 15 We 15 - 17 Th 12 - 13	0						4103
+2023	2	MATH 120	Linear Algebra	MATH 120_01	Mathematics	3	0	0	3	5	Course	John Doe	D228	Mo 12 - 14 We 12 - 13	0						2574
+2023	2	MATH 120	Linear Algebra	MATH 120_02	Mathematics	3	0	0	3	5	Course	Albert Ross	D032	Mo 09 - 11 We 13 - 14	0						1816
+2023	2	MATH 120	Linear Algebra	MATH 120_03	Mathematics	3	0	0	3	5	Course	Albert Ross	D032	Tu 09 - 11 Th 12 - 13	0						1816
+2023	2	MATH 120	Linear Algebra	MATH 120_04	Mathematics	3	0	0	3	5	Course	Albert Ross	D032	Mo 12 - 14 We 12 - 13	0						1816
+2023	2	MATH 203	Linear Algebra and Differential Equation	MATH 203_01	Mathematics	3	0	0	3	5	Course	John Doe	K084 K183	Tu 11 - 12 We 09 - 11	0						2637
+2023	2	MATH 203	Linear Algebra and Differential Equation	MATH 203_02	Mathematics	3	0	0	3	5	Course		D026 D028	Mo 13 - 15 We 11 - 12	0						
+2023	2	MATH 203	Linear Algebra and Differential Equation	MATH 203_03	Mathematics	3	0	0	3	5	Course		D228 D028	Mo 11 - 12 Fr 16 - 18	0						
+2023	2	MATH 204	Vector and Complex Calculus	MATH 204_01	Mathematics	3	0	0	3	5	Course	John Doe	K184 K183	We 12 - 13 Th 11 - 13	0						274
+2023	2	MATH 211	Advanced Calculus I	MATH 211_01	Mathematics	4	0	0	4	8	Course	Albert Ross	A435	Mo 16 - 18 Tu 13 - 15	0						671
+2023	2	MATH 211-O	Advanced Calculus I	MATH 211-O_1	Mathematics	4	0	0	4	7	Course	Albert Ross		Mo 16 - 18 Tu 13 - 15	0						671
+2023	2	MATH 212	Advanced Calculus II	MATH 212_01	Mathematics	4	0	0	4	8	Course	John Doe	A435	Tu 11 - 13 We 15 - 17	0						274
+2023	2	MATH 212-O	Advanced Calculus II	MATH 212-O_1	Mathematics	4	0	0	4	7	Course	John Doe		Tu 11 - 13 We 15 - 17	0						274
+2023	2	MATH 221	Linear Algebra I	MATH 221_01	Mathematics	3	1	0	3	7	Course	John Doe		Tu 09 - 11 We 09 - 11	0						274
+2023	2	MATH 221-O	Linear Algebra I	MATH 221-O_1	Mathematics	3	0	0	3	6	Course	John Doe	A435	Tu 09 - 11 We 09 - 11	0						274
+2023	2	MATH 222	Linear Algebra II	MATH 222_01	Mathematics	3	1	0	3	7	Course	John Doe		We 09 - 11 Fr 09 - 11	0						2574
+2023	2	MATH 222-O	Linear Algebra II	MATH 222-O_1	Mathematics	3	0	0	3	6	Course	John Doe	A437	We 09 - 11 Fr 09 - 11	0						2574
+2023	2	MATH 230	Introduction to Probability Theory	MATH 230_01	Mathematics	3	0	0	3	6	Course	Albert Ross	DB16 D028	Mo 11 - 13 We 12 - 13	0						3329
+2023	2	MATH 232	Introduction to Statistics	MATH 232_01	Mathematics	3	0	0	3	6	Course	Albert Ross	D028	Mo 11 - 13 Th 11 - 12	0						4810
+2023	2	MATH 232	Introduction to Statistics	MATH 232_02	Mathematics	3	0	0	3	6	Course	Albert Ross	D026 D028	We 11 - 13 Th 12 - 13	0						4810
+2023	2	MATH 233	Statistics for Social Sciences	MATH 233_01	Mathematics	3	1	0	3	5	Course	Albert Ross	D028 D026	Mo 13 - 15 We 13 - 15	0						4810
+2023	2	MATH 240	Introduction to Probability & Statistics	MATH 240_01	Mathematics	3	0	0	3	6	Course	Elon Gated	DB20	Mo 11 - 13 Tu 11 - 12	0						1407
+2023	2	MATH 240	Introduction to Probability & Statistics	MATH 240_02	Mathematics	3	0	0	3	6	Course	Elon Gated	DB20	Mo 15 - 16 Tu 14 - 16	0						1407
+2023	2	MATH 240	Introduction to Probability & Statistics	MATH 240_03	Mathematics	3	0	0	3	6	Course	Elon Gated	D028	Mo 15 - 16 Tu 14 - 16	0						1812
+2023	2	MATH 242	Differential Equations	MATH 242_01	Mathematics	3	0	0	3	6	Course	Albert Ross	A435	Fr 14 - 17	0						4103
+2023	2	MATH 250	Discrete Mathematics for Engineering	MATH 250_01	Mathematics	3	0	0	3	5	Course	Albert Ross	DB16	Mo 09 - 11 We 13 - 14	0						3329
+2023	2	MATH 250	Discrete Mathematics for Engineering	MATH 250_02	Mathematics	3	0	0	3	5	Course	Albert Ross	DB16	Mo 13 - 15 We 14 - 15	0						3329
+2023	2	MATH 314	Complex Analysis	MATH 314_01	Mathematics	4	0	0	4	7	Course	Albert Ross	A435 A437	Mo 14 - 16 Th 12 - 14	0						671
+2023	2	MATH 322	Abstract Algebra II	MATH 322_01	Mathematics	3	1	0	3	7	Course	Albert Ross	A437	Tu 13 - 15 Th 09 - 11	0						1816
+2023	2	MATH 352	Numerical Methods	MATH 352_01	Mathematics	3	0	0	3	6	Course	Albert Ross	A435 A437	Mo 13 - 14 We 12 - 14	0						247
+2023	2	MATH 411	Introduction to Functional Analysis	MATH 411_01	Mathematics	3	0	0	3	6	Course	Albert Ross	A435 A437	Tu 15 - 17 Th 11 - 12	0						671
+2023	2	MATH 435	Probability Theory	MATH 435_01	Mathematics	3	0	0	3	6	Course	Albert Ross	A437	Fr 11 - 14	0						3329
+2023	2	MATH 441	Partial Differential Equations	MATH 441_01	Mathematics	3	0	0	3	6	Course	Albert Ross	A435 A437	Mo 11 - 13 We 11 - 12	0						247
+2023	2	MATH 491	Senior Project	MATH 491_01	Mathematics	3	0	0	3	6	Course			Fr 18 - 21	0						
+2023	2	ME 224	Design and Manufacturing	ME 224_01	Department of Mechanical Engineering	2	0	2	3	6	Course	Albert Ross	F204 HB03-MF-L	Tu 16 - 18 Th 09 - 11	0						862
+2023	2	ME 241	Introduction to Solid Mechanics	ME 241_01	Department of Mechanical Engineering	3	0	0	3	6	Course	Albert Ross	F206	Tu 13 - 14 Th 12 - 14	0						862
+2023	2	ME 242	Dynamics	ME 242_01	Department of Mechanical Engineering	3	0	0	3	6	Course	Albert Ross	F204 F212	Tu 13 - 14 Th 12 - 14	0						1324
+2023	2	ME 264	Thermodynamics	ME 264_01	Department of Mechanical Engineering	3	0	0	3	6	Course	Albert Ross	F206	Tu 09 - 11 Th 11 - 12	0						1495
+2023	2	ME 302	Experimental Engineering	ME 302_01	Department of Mechanical Engineering	1	0	4	3	5	Course	Albert Ross	DB202-MF-L	We 13 - 14 Fr 09 - 13	0						1517
+2023	2	ME 302	Experimental Engineering	ME 302_02	Department of Mechanical Engineering	1	0	4	3	5	Course	Albert Ross		We 13 - 14 Fr 14 - 18	0						1495
+2023	2	ME 324	Machine Design I	ME 324_01	Department of Mechanical Engineering	3	0	0	3	5	Course	Albert Ross	G006	Th 14 - 17	0						 00005811 (S) 
+2023	2	ME 336	Modeling and Control of Dynamic Systems	ME 336_01	Department of Mechanical Engineering	3	0	0	3	5	Course	Albert Ross	F212	Mo 14 - 15 We 09 - 11	0						2636
+2023	2	ME 362	Heat Transfer	ME 362_01	Department of Mechanical Engineering	3	0	0	3	5	Course	Albert Ross	F212 F214	Mo 13 - 14 We 14 - 16	0						5663
+2023	2	ME 399	Summer Practice I	ME 399_01	Department of Mechanical Engineering	1	0	0	1	2	Internship	Albert Ross		Th 18 - 19	0						1517
+2023	2	ME 442	Computer Aided Design and Manufacturing	ME 442_01	Department of Mechanical Engineering	3	0	0	3	5	Course	Albert Ross	G101	Mo 10 - 13	0						862
+2023	2	ME 447	Nanomaterials and Nanotechnology	ME 447_01	Department of Mechanical Engineering	3	0	0	3	5	Course	Albert Ross	G108	Mo 15 - 18	0						1517
+2023	2	ME 457	Applied Aerodynamics	ME 457_01	Department of Mechanical Engineering	3	0	0	3	5	Course	Albert Ross	G101	Tu 12 - 15	0						1495
+2023	2	ME 492	Senior Project	ME 492_01	Department of Mechanical Engineering	0	0	8	4	12	Course	Albert Ross	G101	We 16 - 18	0						2636
+2023	2	ME 492	Senior Project	ME 492_02	Department of Mechanical Engineering	0	0	8	4	12	Course	Albert Ross		We 16 - 18	0						1324
+2023	2	ME 499	Summer Practice II	ME 499_01	Department of Mechanical Engineering	1	0	0	1	3	Internship	Albert Ross		Th 19 - 20	0						1517
+2023	2	PCG 102	Developmental Psychology 1	PCG 102_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Doug Lyphe	D232	Fr 09 - 12	0						2607
+2023	2	PCG 106	GPC in Schools	PCG 106_01	Guidance and Psychological Counselling	2	0	0	2	5	Course	Doug Lyphe	D228	We 09 - 12	0						509
+2023	2	PCG 202	Personality Theories	PCG 202_01	Guidance and Psychological Counselling	2	0	0	2	2	Course	Doug Lyphe	D230	Th 09 - 12	0						845
+2023	2	PCG 204	Life Span and Adjustment Problems	PCG 204_01	Guidance and Psychological Counselling	2	0	0	2	2	Course	Doug Lyphe	D232	Fr 09 - 12	0						2607
+2023	2	PCG 205	Social Psychology	PCG 205_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Doug Lyphe	G103	We 12 - 15	0						1134
+2023	2	PCG 206	Character and Value Education	PCG 206_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Doug Lyphe	DB20	Th 11 - 14	0						1134
+2023	2	PCG 208	Non-Testing Techniques	PCG 208_01	Guidance and Psychological Counselling	1	2	0	2	3	Course	Doug Lyphe	G003	We 14 - 17	0						509
+2023	2	PCG 251	Child Abuse and Neglect	PCG 251_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Albert Ross	G213	We 16 - 19	0						 00005029 (S) 
+2023	2	PCG 264	Contemporary Approaches and Models in C.	PCG 264_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Doug Lyphe	D230	Fr 12 - 15	0						4120
+2023	2	PCG 271	Family Relations and Communication	PCG 271_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Doug Lyphe	G213	Mo 16 - 19	0						845
+2023	2	PCG 272	Family Violence	PCG 272_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Doug Lyphe	G213	Mo 16 - 19	0						845
+2023	2	PCG 301	Behavioral Disorders 1	PCG 301_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Albert Ross	G006	Mo 13 - 16	0						 00003306 (S) 
+2023	2	PCG 306	Group Counseling	PCG 306_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Albert Ross	G006	Tu 13 - 16	0						1372
+2023	2	PCG 306	Group Counseling	PCG 306_02	Guidance and Psychological Counselling	2	0	0	2	3	Course	Albert Ross	G005	We 15 - 18	0						1372
+2023	2	PCG 308	Field Prac. in Career Guidance and Cou.	PCG 308_01	Guidance and Psychological Counselling	1	2	0	2	2	Course	Albert Ross	D028	Fr 09 - 12	0						1468
+2023	2	PCG 309	Career Guidance and Counseling	PCG 309_01	Guidance and Psychological Counselling	2	0	0	2	2	Course	Albert Ross	D030	We 09 - 11	0						1468
+2023	2	PCG 402	Children#s Law	PCG 402_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Albert Ross	G213	We 16 - 19	0						 00005029 (S) 
+2023	2	PCG 404	Post-Trauma Counseling	PCG 404_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Albert Ross	D026	Mo 09 - 11	0						2033
+2023	2	PCG 406	Seminars on Guidance and Psych. Couns.	PCG 406_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Doug Lyphe	G113	Mo 11 - 14	0						3224
+2023	2	PCG 408	Field Practice in Individual Couns. 2	PCG 408_01	Guidance and Psychological Counselling	1	2	0	2	3	Course	Albert Ross	F104-PSCG-L	We 11 - 13	0						1372
+2023	2	PCG 408	Field Practice in Individual Couns. 2	PCG 408_02	Guidance and Psychological Counselling	1	2	0	2	3	Course	Albert Ross	F104-PSCG-L	Fr 13 - 15	0						 00003258 (S) 
+2023	2	PCG 408	Field Practice in Individual Couns. 2	PCG 408_03	Guidance and Psychological Counselling	1	2	0	2	3	Course	Albert Ross	F104-PSCG-L	Fr 15 - 17	0						 00003258 (S) 
+2023	2	PCG 408	Field Practice in Individual Couns. 2	PCG 408_04	Guidance and Psychological Counselling	1	2	0	2	3	Course	Doug Lyphe	F106-PSCG-L	Th 10 - 12	0						509
+2023	2	PCG 408	Field Practice in Individual Couns. 2	PCG 408_05	Guidance and Psychological Counselling	1	2	0	2	3	Course	Doug Lyphe	F106-PSCG-L	Th 14 - 16	0						845
+2023	2	PECE 102	Practicum 1	PECE 102_01	Early Childhood Education	1	4	0	3	6	Course	Dianne Ameter	GB10-PECE-L	Tu 13 - 14 Fr 09 - 13	0						67
+2023	2	PECE 102	Practicum 1	PECE 102_02	Early Childhood Education	1	4	0	3	6	Course	Dianne Ameter		Tu 13 - 14 Fr 09 - 13	0						2
+2023	2	PECE 104	Curriculum in Early Childhood Education	PECE 104_01	Early Childhood Education	3	0	0	3	5	Course	Dianne Ameter	GB10-PECE-L	Mo 09 - 12	0						1058
+2023	2	PECE 106	Drama in Early Childhood Education	PECE 106_01	Early Childhood Education	1	2	0	2	5	Course	Dianne Ameter	GB10-PECE-L	Mo 14 - 17	0						2609
+2023	2	PECE 108	Development and Learning in ECE	PECE 108_01	Early Childhood Education	2	2	0	3	5	Course	Dianne Ameter	GB10-PECE-L	Tu 14 - 16 Fr 15 - 17	0						2
+2023	2	PECE 202	Science Education in Early Childhood	PECE 202_01	Early Childhood Education	3	0	0	3	6	Course	Dianne Ameter	GB10-PECE-L	Th 09 - 12	0						2609
+2023	2	PECE 204	Mathematics Education in Early Childhood	PECE 204_01	Early Childhood Education	3	0	0	3	6	Course	Dianne Ameter	GB10-PECE-L	Fr 09 - 12	0						4802
+2023	2	PECE 260	Pedagogy of Play	PECE 260_01	Early Childhood Education	2	0	0	2	4	Course	Dianne Ameter	GB10-PECE-L	We 11 - 13	0						67
+2023	2	PECE 302	Classroom Management in ECE	PECE 302_01	Early Childhood Education	3	0	0	3	7	Course	Dianne Ameter	D226	Fr 09 - 12	0						4130
+2023	2	PECE 304	Child Mental Health	PECE 304_01	Early Childhood Education	3	0	0	3	7	Course	Dianne Ameter	GB10-PECE-L	Tu 09 - 12	0						1058
+2023	2	PECE 306	Children#s Literature in Early Childhood	PECE 306_01	Early Childhood Education	2	0	0	2	5	Course	Dianne Ameter	GB10-PECE-L	We 13 - 15	0						67
+2023	2	PECE 420	Early Childhood Education Across Nations	PECE 420_01	Early Childhood Education	2	0	0	2	4	Course	Dianne Ameter	GB10-PECE-L	Fr 13 - 15	0						4802
+2023	2	PHIL 104	Philosophy and Ethics	PHIL 104_01	Basic Sciences	3	0	0	3	5	Course	Albert Ross	G108	We 11 - 14	0						 00000566 (S) 
+2023	2	PHYS 101	General Physics I	PHYS 101_01	Basic Sciences	3	0	2	4	6	Course	Albert Ross	D026 K184	Mo 11 - 13 Th 11 - 12	0						 00004109 (S) 
+2023	2	PHYS 101	General Physics I	PHYS 101_02	Basic Sciences	3	0	2	4	6	Course	Albert Ross	K184	Tu 11 - 13 Th 12 - 13	0						 00004109 (S) 
+2023	2	PHYS 101	General Physics I	PHYS 101_03	Basic Sciences	3	0	2	4	6	Course	Albert Ross	DB18	Tu 09 - 11 Th 13 - 14	0						 00001821 (S) 
+2023	2	PHYS 101	General Physics I	PHYS 101_04	Basic Sciences	3	0	2	4	6	Course	Albert Ross	DB18	Tu 11 - 13 Th 12 - 13	0						 00001821 (S) 
+2023	2	PHYS 102	General Physics II	PHYS 102_01	Basic Sciences	3	0	2	4	6	Course		D232 D234	Tu 15 - 17 Th 11 - 12	0						
+2023	2	PHYS 102	General Physics II	PHYS 102_02	Basic Sciences	3	0	2	4	6	Course		K084 DB18	Tu 15 - 17 Th 11 - 12	0						
+2023	2	PHYS 102	General Physics II	PHYS 102_03	Basic Sciences	3	0	2	4	6	Course		DB18	We 09 - 11 Fr 12 - 13	0						
+2023	2	PHYS 102	General Physics II	PHYS 102_04	Basic Sciences	3	0	2	4	6	Course		DB18	We 11 - 13 Fr 13 - 14	0						
+2023	2	PHYS 105	Physics I	PHYS 105_01	Basic Sciences	3	0	2	4	6	Course	Albert Ross	K183	Tu 11 - 13 Fr 12 - 13	0						68
+2023	2	PHYS 120	General Astronomy	PHYS 120_01	Basic Sciences	3	0	0	3	5	Course	Albert Ross	G212	Th 16 - 19	0						 00002027 (S) 
+2023	2	PRED 102	Practicum 1	PRED 102_01	Primary Education	1	4	0	3	6	Course	Brandon Guidelines	D226	We 16 - 17 Fr 13 - 17	0						4127
+2023	2	PRED 102	Practicum 1	PRED 102_02	Primary Education	1	4	0	3	6	Course	Jarvis Pepperspray	A422	We 16 - 17 Fr 13 - 17	0						320
+2023	2	PRED 104	Fundamental Science in Primary Education	PRED 104_01	Primary Education	3	0	0	3	4	Course	Dianne Ameter	D126-EF-L G005	Mo 09 - 11 Tu 11 - 12	0						4404
+2023	2	PRED 106	Development and Learning	PRED 106_01	Primary Education	3	0	0	3	5	Course	Brandon Guidelines	D226 D126-EF-L	We 15 - 16 Th 15 - 17	0						4127
+2023	2	PRED 202	Classroom Management	PRED 202_01	Primary Education	1	2	0	2	6	Course	Albert Ross	D226	Mo 15 - 17 Fr 15 - 16	0						66
+2023	2	PRED 204	Literacy Education	PRED 204_01	Primary Education	2	2	0	3	6	Course	Doug Lyphe	G212	We 11 - 13 Th 11 - 13	0						1062
+2023	2	PRED 230	Teaching Turkish as a Foreign Language	PRED 230_01	Primary Education	2	0	0	2	4	Course	Doug Lyphe	F115	We 13 - 15	0						1062
+2023	2	PRED 302	Practicum 2	PRED 302_01	Primary Education	1	6	0	4	7	Course	Albert Ross	D226	Mo 17 - 18 Fr 09 - 15	0						66
+2023	2	PRED 304	Science Education	PRED 304_01	Primary Education	2	2	0	3	6	Course	Dianne Ameter	D126-EF-L	Mo 15 - 17 Tu 09 - 11	0						4404
+2023	2	PRED 306	Mathematics Education 2	PRED 306_01	Primary Education	2	2	0	3	6	Course	Doug Lyphe	D126-EF-L	Tu 11 - 13 We 09 - 11	0						3248
+2023	2	PRED 308	Social Studies Education 2	PRED 308_01	Primary Education	2	2	0	3	6	Course	Brandon Guidelines	G212	We 13 - 15 Th 13 - 15	0						4127
+2023	2	PRED 420	Intelligence Games	PRED 420_01	Primary Education	2	0	0	2	4	Course	Doug Lyphe	D126-EF-L	Tu 15 - 17	0						3248
+2023	2	PRED 480	Environmental Education	PRED 480_01	Primary Education	2	0	0	2	4	Course	Dianne Ameter	D126-EF-L	Mo 11 - 13	0						4404
+2023	2	PSCG 102	Introduction to Counseling and Guidance	PSCG 102_01	Guidance and Psychological Counselling	3	0	0	3	7	Course	Doug Lyphe	D228	We 09 - 12	0						509
+2023	2	PSCG 104	Life Span Development	PSCG 104_01	Guidance and Psychological Counselling	3	0	0	3	8	Course	Doug Lyphe	D232	Fr 09 - 12	0						2607
+2023	2	PSCG 202	Social Psychology	PSCG 202_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Doug Lyphe	G103	We 12 - 15	0						1134
+2023	2	PSCG 204	Theories of Counseling	PSCG 204_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Doug Lyphe	D230	Tu 16 - 19	0						3224
+2023	2	PSCG 240	Character and Values Education	PSCG 240_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Doug Lyphe	DB20	Th 11 - 14	0						1134
+2023	2	PSCG 280	Child Abuse and Neglect	PSCG 280_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Albert Ross	G213	We 16 - 19	0						 00005029 (S) 
+2023	2	PSCG 290	Aggression and Violence Management	PSCG 290_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Doug Lyphe	G213	Mo 16 - 19	0						845
+2023	2	PSCG 302	Crisis and Trauma Counseling	PSCG 302_01	Guidance and Psychological Counselling	3	0	0	3	6	Course	Albert Ross	DB16	Fr 09 - 12	0						2033
+2023	2	PSCG 304	Group Counseling	PSCG 304_01	Guidance and Psychological Counselling	3	0	0	3	6	Course	Albert Ross	G006	Tu 13 - 16	0						1372
+2023	2	PSCG 304	Group Counseling	PSCG 304_02	Guidance and Psychological Counselling	3	0	0	3	6	Course	Albert Ross	G005	We 15 - 18	0						1372
+2023	2	PSCG 340	Contemporary App.and Models in Counsel.	PSCG 340_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Doug Lyphe	D230	Fr 12 - 15	0						4120
+2023	2	PSCG 360	Industrial and Organizational Psychology	PSCG 360_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Albert Ross	G006	Mo 13 - 16	0						 00003306 (S) 
+2023	2	PSCG 370	Human Resources Management	PSCG 370_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Albert Ross	G105	Th 15 - 18	0						 00003306 (S) 
+2023	2	PSCG 380	Non-Testing Techniques	PSCG 380_01	Guidance and Psychological Counselling	2	2	0	3	5	Course	Doug Lyphe	G003	We 14 - 17	0						509
+2023	2	PSCG 400	Theories of Personality	PSCG 400_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Doug Lyphe	D230	Th 09 - 12	0						845
+2023	2	PSIR 110	Introduction to Political Studies	PSIR 110_01	Dep. of Political Science Intern. Rel.	3	0	0	3	5	Course	Albert Ross	D030	Fr 13 - 16	0						7
+2023	2	PSIR 214	Political Currents	PSIR 214_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Albert Ross	D230	Fr 09 - 12	0						7
+2023	2	PSIR 216	Political Sociology	PSIR 216_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Cecil Hipplington	GB05	Fr 13 - 16	0						1464
+2023	2	PSIR 266	Turkish Constitutional Law	PSIR 266_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course		Online	Th 09 - 12	0						
+2023	2	PSIR 292	International Relations Theory	PSIR 292_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Cecil Hipplington	G105	Mo 09 - 12	0						77
+2023	2	PSIR 300-O	Summer Practice  I	PSIR 300-O_1	Dep. of Political Science Intern. Rel.	1	0	0	1	2	Internship	Cecil Hipplington		Fr 18 - 19	0						77
+2023	2	PSIR 316	Politics of Masculinities	PSIR 316_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Cecil Hipplington	G010	Th 09 - 12	0						2563
+2023	2	PSIR 336	Contemporary Turkish Politics	PSIR 336_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Cecil Hipplington	G005	We 12 - 15	0						2563
+2023	2	PSIR 352	History of Political Thought II	PSIR 352_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Cecil Hipplington	D028	Tu 09 - 12	0						1464
+2023	2	PSIR 374	Comparative Politics	PSIR 374_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Cecil Hipplington	G213	Mo 13 - 16	0						1769
+2023	2	PSIR 394	Diplomatic History	PSIR 394_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Cecil Hipplington	G010	Tu 13 - 16	0						2048
+2023	2	PSIR 400-O	Summer Practice II	PSIR 400-O_1	Dep. of Political Science Intern. Rel.	1	0	0	1	2	Internship	Cecil Hipplington		Fr 19 - 20	0						77
+2023	2	PSIR 402-O	Graduation Paper and Seminar	PSIR 402-O_1	Dep. of Political Science Intern. Rel.	3	0	0	3	7	Course	Cecil Hipplington		Tu 18 - 21	0						77
+2023	2	PSIR 402-O	Graduation Paper and Seminar	PSIR 402-O_2	Dep. of Political Science Intern. Rel.	3	0	0	3	7	Course	Albert Ross		Tu 18 - 21	0						7
+2023	2	PSIR 402-O	Graduation Paper and Seminar	PSIR 402-O_3	Dep. of Political Science Intern. Rel.	3	0	0	3	7	Course	Cecil Hipplington		Tu 18 - 21	0						1464
+2023	2	PSIR 402-O	Graduation Paper and Seminar	PSIR 402-O_4	Dep. of Political Science Intern. Rel.	3	0	0	3	7	Course	Cecil Hipplington		Tu 18 - 21	0						2563
+2023	2	PSIR 402-O	Graduation Paper and Seminar	PSIR 402-O_5	Dep. of Political Science Intern. Rel.	3	0	0	3	7	Course	Cecil Hipplington		Tu 18 - 21	0						2048
+2023	2	PSIR 402-O	Graduation Paper and Seminar	PSIR 402-O_6	Dep. of Political Science Intern. Rel.	3	0	0	3	7	Course	Cecil Hipplington		Tu 18 - 21	0						1769
+2023	2	PSIR 422	Current Issues in World Politics	PSIR 422_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Cecil Hipplington	G203	Mo 16 - 19	0						19
+2023	2	PSIR 491	Foreign Policy Analysis	PSIR 491_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Cecil Hipplington	F214	We 16 - 19	0						19
+2023	2	PSY 102	General Psychology	PSY 102_01	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	G103	Tu 12 - 15	0						3893
+2023	2	PSY 102	General Psychology	PSY 102_02	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	G010	Th 12 - 15	0						3893
+2023	2	PSY 104	Psychology	PSY 104_01	Department of Psychology	3	0	0	3	5	Course		D230	We 16 - 19	0						
+2023	2	PSY 204	Research Methods II	PSY 204_01	Department of Psychology	2	2	0	3	7	Course	Cecil Hipplington	D234	Tu 12 - 14 Th 14 - 16	0						2576
+2023	2	PSY 204	Research Methods II	PSY 204_02	Department of Psychology	2	2	0	3	7	Course	Cecil Hipplington	D234	Tu 14 - 16 Th 12 - 14	0						2576
+2023	2	PSY 206	Applied Research & Data Analysis	PSY 206_01	Department of Psychology	2	2	0	3	6	Course	Cecil Hipplington	A514-PC-L	Mo 09 - 11 We 13 - 15	0						2739
+2023	2	PSY 206	Applied Research & Data Analysis	PSY 206_02	Department of Psychology	2	2	0	3	6	Course	Cecil Hipplington	A514-PC-L	Mo 13 - 15 We 09 - 11	0						2739
+2023	2	PSY 222	Life-Span Development II	PSY 222_01	Department of Psychology	3	0	0	3	6	Course		D228	Fr 09 - 12	0						
+2023	2	PSY 222	Life-Span Development II	PSY 222_02	Department of Psychology	3	0	0	3	6	Course		D228	Fr 16 - 19	0						
+2023	2	PSY 232	Social Psychology II	PSY 232_01	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	DB14	Fr 13 - 15	0						3892
+2023	2	PSY 232-O	Social Psychology	PSY 232-O_01	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	DB16	Mo 15 - 18	0						3892
+2023	2	PSY 232-O	Social Psychology	PSY 232-O_02	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	DB14	Th 16 - 19	0						3892
+2023	2	PSY 308	Testing and Measurement in Psychology	PSY 308_01	Department of Psychology	2	2	2	3	7	Course	Cecil Hipplington	D030 D230	Tu 09 - 11 Th 12 - 14	0						959
+2023	2	PSY 308	Testing and Measurement in Psychology	PSY 308_02	Department of Psychology	2	2	2	3	7	Course	Cecil Hipplington	DB20 D228	Tu 12 - 14 Th 09 - 11	0						959
+2023	2	PSY 312	Biopsychology	PSY 312_01	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	DB14	Tu 16 - 19	0						4102
+2023	2	PSY 312	Biopsychology	PSY 312_02	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	DB20	We 15 - 18	0						4102
+2023	2	PSY 317	Sensation and Perception	PSY 317_01	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	G006	We 09 - 12	0						4102
+2023	2	PSY 332	Psychology of Emotion	PSY 332_01	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	G003	Fr 09 - 12	0						3893
+2023	2	PSY 342	Psychopathology	PSY 342_01	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	K085	Mo 11 - 14	0						1334
+2023	2	PSY 342	Psychopathology	PSY 342_02	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	K084	Mo 15 - 18	0						1334
+2023	2	PSY 343	Clinical Psychology	PSY 343_01	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	K084	We 12 - 15	0						1334
+2023	2	PSY 402	Graduation Paper and Seminar	PSY 402_01	Department of Psychology	3	2	0	4	8	Course	Cecil Hipplington		Fr 16 - 19	0						343
+2023	2	PSY 402	Graduation Paper and Seminar	PSY 402_02	Department of Psychology	3	2	0	4	8	Course	Cecil Hipplington		Fr 16 - 19	0						1334
+2023	2	PSY 402	Graduation Paper and Seminar	PSY 402_03	Department of Psychology	3	2	0	4	8	Course	Cecil Hipplington		Fr 16 - 19	0						3892
+2023	2	PSY 402	Graduation Paper and Seminar	PSY 402_04	Department of Psychology	3	2	0	4	8	Course	Cecil Hipplington		Fr 16 - 19	0						3893
+2023	2	PSY 402	Graduation Paper and Seminar	PSY 402_05	Department of Psychology	3	2	0	4	8	Course	Cecil Hipplington		Fr 16 - 19	0						4102
+2023	2	PSY 402	Graduation Paper and Seminar	PSY 402_06	Department of Psychology	3	2	0	4	8	Course	Cecil Hipplington		Fr 16 - 19	0						2739
+2023	2	PSY 402	Graduation Paper and Seminar	PSY 402_07	Department of Psychology	3	2	0	4	8	Course	Cecil Hipplington		Fr 16 - 19	0						2576
+2023	2	PSY 402	Graduation Paper and Seminar	PSY 402_08	Department of Psychology	3	2	0	4	8	Course			Fr 16 - 19	0						
+2023	2	PSY 432	Applied Social Psychology	PSY 432_01	Department of Psychology	2	2	2	3	6	Course	Cecil Hipplington	G005	Mo 11 - 14	0						2576
+2023	2	PSY 448	Trauma Psychology	PSY 448_01	Department of Psychology	3	0	0	3	6	Course	Cecil Hipplington	G006	Fr 13 - 16	0						959
+2023	2	RUS 101	Elementary Russian I	RUS 101_01	Basic Sciences	3	0	0	3	5	Course	Cecil Hipplington	G213	Tu 16 - 19	0						 00001359 (S) 
+2023	2	SENG 212	Software Requirements Engineering	SENG 212_01	Department of Software Engineering	3	0	0	3	6	Course	Cecil Hipplington	G203	Fr 09 - 12	0						3895
+2023	2	SENG 214	Software Engineering	SENG 214_01	Department of Software Engineering	3	0	0	3	6	Course	Cecil Hipplington	D032	Tu 13 - 16	0						3895
+2023	2	SENG 214	Software Engineering	SENG 214_02	Department of Software Engineering	3	0	0	3	6	Course	Cecil Hipplington	K084	We 15 - 18	0						3895
+2023	2	SENG 214	Software Engineering	SENG 214_03	Department of Software Engineering	3	0	0	3	6	Course	Cecil Hipplington	D026	Fr 15 - 18	0						3895
+2023	2	SENG 216	Web Programming	SENG 216_01	Department of Software Engineering	3	0	0	3	6	Course	Caspian Bellevedere	DB20	Fr 13 - 16	0						3019
+2023	2	SENG 218	Object Oriented Anaylsis and Design	SENG 218_01	Department of Software Engineering	3	0	0	3	6	Course	Caspian Bellevedere	K183	Tu 13 - 16	0						5055
+2023	2	SENG 342	Sofware Quality Assurance	SENG 342_01	Department of Software Engineering	3	0	0	3	5	Course	Cecil Hipplington	D234 D230	Mo 14 - 16 Tu 12 - 13	0						337
+2023	2	SENG 342	Sofware Quality Assurance	SENG 342_02	Department of Software Engineering	3	0	0	3	5	Course	Cecil Hipplington	D230 D030	Tu 13 - 14 We 11 - 13	0						337
+2023	2	SENG 399	Summer Internship	SENG 399_01	Department of Software Engineering	1	0	0	1	2	Internship	Dianne Ameter		Mo 18 - 19	0						1446
+2023	2	SENG 442	Parallel and Distributed Computing	SENG 442_01	Department of Software Engineering	3	0	0	3	6	Course	Cecil Hipplington	D234 D230	Mo 11 - 13 Tu 11 - 12	0						337
+2023	2	SENG 444	Social Issues and Professional Practices	SENG 444_01	Department of Software Engineering	3	0	0	3	5	Course	Dianne Ameter	D230	Tu 09 - 11 We 13 - 14	0						1446
+2023	2	SENG 492	Senior Project II	SENG 492_01	Department of Software Engineering	1	4	0	3	8	Project	Caspian Bellevedere		Fr 18 - 19	0						5055
+2023	2	SOC 103	Introduction to Sociology	SOC 103_01	Department of Sociology	3	0	0	3	5	Course	Cecil Hipplington	DB18	We 16 - 19	0						 00005647 (S) 
+2023	2	SOC 103	Introduction to Sociology	SOC 103_02	Department of Sociology	3	0	0	3	5	Course	Cecil Hipplington	DB16	Th 16 - 19	0						 00005647 (S) 
+2023	2	SOC 104	Introduction to Sociology II	SOC 104_01	Department of Sociology	3	0	0	3	6	Course	Cecil Hipplington	G201	Tu 11 - 13 Th 16 - 17	0						1057
+2023	2	SOC 202	Research Methods II	SOC 202_01	Department of Sociology	2	3	0	4	8	Course	Cecil Hipplington	F204 F214	Tu 14 - 16 Th 11 - 13	0						1057
+2023	2	SOC 204	Sociological Theories II: Classics	SOC 204_01	Department of Sociology	3	0	0	3	7	Course	Cecil Hipplington	F115	Tu 11 - 13 Th 13 - 14	0						4097
+2023	2	SOC 204-O	Sociological Theories II: Classics	SOC 204-O_01	Department of Sociology	3	0	0	3	6	Course	Cecil Hipplington		Tu 11 - 13 Th 13 - 14	0						4097
+2023	2	SOC 210	Sociology of Family	SOC 210_01	Department of Sociology	3	0	0	3	6	Course	Cecil Hipplington	G203	We 11 - 14	0						2571
+2023	2	SOC 220	New media and Communication Studies	SOC 220_01	Department of Sociology	3	0	0	3	6	Course	Cecil Hipplington	G112	Mo 15 - 17 Th 16 - 17	0						3928
+2023	2	SOC 302	Development of Sociology in Turkey	SOC 302_01	Department of Sociology	2	2	0	3	6	Course	Cecil Hipplington	F206 F115	Tu 14 - 16 Th 12 - 13	0						4097
+2023	2	SOC 304	Demography and Society	SOC 304_01	Department of Sociology	3	0	0	3	6	Course	Cecil Hipplington	G203	Tu 11 - 13 Th 11 - 12	0						2571
+2023	2	SOC 314	Religion and Modernity	SOC 314_01	Department of Sociology	3	0	0	3	6	Course	Cecil Hipplington	G105	Fr 11 - 14	0						4097
+2023	2	SOC 401	Graduation Project and Seminar I	SOC 401_01	Department of Sociology	3	2	0	4	8	Course	Cecil Hipplington		Mo 11 - 14	0						3928
+2023	2	SOC 402	Graduation Project and Seminar	SOC 402_01	Department of Sociology	3	2	0	4	8	Course	Cecil Hipplington	A422	Fr 14 - 17	0						1057
+2023	2	SOC 404	Sociology of Work	SOC 404_01	Department of Sociology	2	2	0	3	6	Course	Cecil Hipplington	G108	We 14 - 17	0						1055
+2023	2	SOC 423	Gender and Sexuality	SOC 423_01	Department of Sociology	2	2	0	3	6	Course	Cecil Hipplington		Th 18 - 21	0						2571
+2023	2	SPA 101	Elementary Spanish I	SPA 101_01	Basic Sciences	3	0	0	3	5	Course	Cecil Hipplington	G208	Mo 13 - 16	0						 00000575 (S) 
+2023	2	SPA 101	Elementary Spanish I	SPA 101_02	Basic Sciences	3	0	0	3	5	Course	Cecil Hipplington	G208	Mo 16 - 19	0						 00000575 (S) 
+2023	2	SPA 101	Elementary Spanish I	SPA 101_03	Basic Sciences	3	0	0	3	5	Course	Cecil Hipplington	G208	Tu 13 - 15	0						 00000575 (S) 
+2023	2	SPA 102	Elementary Spanish II	SPA 102_01	Basic Sciences	3	0	0	3	5	Course	Cecil Hipplington	G208	Tu 16 - 19	0						 00000575 (S) 
+2023	2	TEDU 101	First Year Experience at TEDU	TEDU 101_01	Basic Sciences	0	0	0	0	1	Course			We 17 - 18	0						
+2023	2	TEDU 101	First Year Experience at TEDU	TEDU 101_02	Basic Sciences	0	0	0	0	1	Course			We 17 - 18	0						
+2023	2	TEDU 101	First Year Experience at TEDU	TEDU 101_03	Basic Sciences	0	0	0	0	1	Course			We 17 - 18	0						
+2023	2	TEDU 109	Digital Competence	TEDU 109_01	Basic Sciences	2	0	2	3	5	Course	Abraham Pigeon	D228 Online	Mo 14 - 16 Tu 16 - 18	0						3879
+2023	2	TEDU 109	Digital Competence	TEDU 109_02	Basic Sciences	2	0	2	3	5	Course	Abraham Pigeon	D228 Online	Mo 16 - 18 Tu 18 - 20	0						3879
+2023	2	TEDU 109	Digital Competence	TEDU 109_03	Basic Sciences	2	0	2	3	5	Course	Abraham Pigeon	K184 Online	We 16 - 18 Th 16 - 18	0						 00005688 (S) 
+2023	2	TEDU 109	Digital Competence	TEDU 109_04	Basic Sciences	2	0	2	3	5	Course	Abraham Pigeon	K184 Online	We 18 - 20 Th 18 - 20	0						 00005688 (S) 
+2023	2	TEDU 109	Digital Competence	TEDU 109_05	Basic Sciences	2	0	2	3	5	Course	Abraham Pigeon	Online	Th 16 - 18 Fr 16 - 18	0						 00005685 (S) 
+2023	2	TINT 102	Studio 2	TINT 102_01	Dep. of Interior Arch. and Env. Design	2	8	0	6	11	Course	Abraham Pigeon		Tu 14 - 17 Tu 09 - 13 Fr 09 - 12	0						" 00004830 (S) , 00004827 (S) , 00004813 , 00004179 "
+2023	2	TINT 102-O	Studio 2	TINT 102-O_1	Dep. of Interior Arch. and Env. Design	2	8	0	6	10	Course	Abraham Pigeon		Tu 09 - 13 Tu 14 - 17 Fr 09 - 12	0						" 00004830 (S) , 00004827 (S) , 00004813 , 00004179 "
+2023	2	TINT 112	Visual Communication Techniques 2	TINT 112_01	Dep. of Interior Arch. and Env. Design	1	4	0	3	5	Course	Abraham Pigeon		We 13 - 17	0						" 00004827 (S) , 00004179 "
+2023	2	TINT 112-O	Visual Communication Techniques 2	TINT 112-O_1	Dep. of Interior Arch. and Env. Design	2	2	0	3	5	Course	Abraham Pigeon		We 13 - 17	0						" 00004179 , 00004827 (S) "
+2023	2	TINT 202	Studio 4	TINT 202_01	Dep. of Interior Arch. and Env. Design	2	8	0	6	12	Course	Abraham Pigeon		Mo 09 - 13 Mo 14 - 17 Th 09 - 12	0						" 00004826 (S) , 00003947 (S) , 00002629 , 00001874 "
+2023	2	TINT 202-O	Studio 4	TINT 202-O_1	Dep. of Interior Arch. and Env. Design	2	8	0	6	11	Course	Abraham Pigeon		Mo 14 - 17 Mo 09 - 13 Th 09 - 12	0						" 00004826 (S) , 00003947 (S) , 00001874 , 00002629 "
+2023	2	TINT 212	Environmental Systems and Comfort	TINT 212_01	Dep. of Interior Arch. and Env. Design	3	0	0	3	4	Course	Abraham Pigeon		Th 13 - 16	0						1510
+2023	2	TINT 212-O	Environmental Systems and Comfort	TINT 212-O_1	Dep. of Interior Arch. and Env. Design	1	0	0	1	2	Course	Abraham Pigeon		Th 13 - 16	0						1510
+2023	2	TINT 222	Culture and Theory 2	TINT 222_01	Dep. of Interior Arch. and Env. Design	3	0	0	3	4	Course	Abraham Pigeon		We 09 - 12	0						 00004827 (S) 
+2023	2	TINT 222-O	Culture and Theory 2	TINT 222-O_1	Dep. of Interior Arch. and Env. Design	2	1	0	2	5	Course	Abraham Pigeon	G205	We 09 - 12	0						 00004827 (S) 
+2023	2	TINT 302-O	Studio 6	TINT 302-O_1	Dep. of Interior Arch. and Env. Design	2	8	0	6	11	Course	Abraham Pigeon		Tu 09 - 13 Tu 14 - 17 Fr 09 - 12	0						" 00004825 (S) , 00004107 (S) , 00001510 "
+2023	2	TINT 318	Design for All	TINT 318_01	Dep. of Interior Arch. and Env. Design	3	0	0	3	5	Course	Abraham Pigeon	GB05	Mo 13 - 16	0						4813
+2023	2	TINT 372-O	Advanced Detailing	TINT 372-O_1	Dep. of Interior Arch. and Env. Design	3	0	0	3	5	Course	Abraham Pigeon		We 09 - 12	0						" 00001874 , 00002629 "
+2023	2	TINT 399-O	Summer Practice I: Construction Site	TINT 399-O_1	Dep. of Interior Arch. and Env. Design	0	0	0	0	2	Internship	Abraham Pigeon		Fr 19 - 20	0						1510
+2023	2	TINT 402-O	Studio 8	TINT 402-O_1	Dep. of Interior Arch. and Env. Design	2	8	0	6	12	Course	Abraham Pigeon		Mo 09 - 12 Th 14 - 17 Th 09 - 13	0						" 00003947 (S) , 00005676 (S) "
+2023	2	TINT 420	"Color, Theory and Application in Interio"	TINT 420_01	Dep. of Interior Arch. and Env. Design	2	2	0	3	5	Course	Abraham Pigeon	G108	Th 09 - 12	0						 00004107 (S) 
+2023	2	TINT 421	Theory of Design	TINT 421_01	Dep. of Interior Arch. and Env. Design	3	0	0	3	5	Course	Abraham Pigeon	G003	Fr 14 - 17	0						 00004108 (S) 
+2023	2	TINT 499-O	Summer Practice II: Design Office	TINT 499-O_1	Dep. of Interior Arch. and Env. Design	0	0	0	0	2	Internship	Abraham Pigeon		Fr 20 - 21	0						1510
+2023	2	TUR 101	Turkish I	TUR 101_01	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Abraham Pigeon	Online	Tu 20 - 22	0						1829
+2023	2	TUR 101	Turkish I	TUR 101_02	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Abraham Pigeon	Online	Th 20 - 22	0						1829
+2023	2	TUR 102	Turkish II	TUR 102_01	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Abraham Pigeon	Online	Mo 18 - 20	0						1829
+2023	2	TUR 102	Turkish II	TUR 102_02	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Abraham Pigeon	Online	Tu 18 - 20	0						1829
+2023	2	TUR 102	Turkish II	TUR 102_03	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Abraham Pigeon	Online	We 18 - 20	0						1829
+2023	2	TUR 102	Turkish II	TUR 102_04	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Abraham Pigeon	Online	Th 18 - 20	0						1829
+2023	2	TUR 102	Turkish II	TUR 102_05	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Abraham Pigeon	Online	Fr 18 - 20	0						1829
+2023	2	VCODE 102	Introduction to Design Methods	VCODE 102_01	Department of Visual Communication Desig	2	8	0	6	10	Course	Abraham Pigeon		Tu 09 - 12 Tu 13 - 15 Fr 13 - 15 Fr 09 - 12	0						" 00001264 , 00005662 (S) , 00003929 (S) "
+2023	2	VCODE 112	Visual Communication Techniques II	VCODE 112_01	Department of Visual Communication Desig	2	2	0	3	6	Course	Abraham Pigeon		Th 09 - 13	0						" 00003929 (S) , 00005662 (S) , 00003851 "
+2023	2	VCODE 112-O	Visual Communication Techniques II	VCODE112-O_1	Department of Visual Communication Desig	2	2	0	3	5	Course	Abraham Pigeon		Th 09 - 13	0						" 00003929 (S) , 00005662 (S) , 00003851 "
+2023	2	VCODE 202	Visual Communication Design Studio II	VCODE 202_01	Department of Visual Communication Desig	2	8	0	6	11	Course	Abraham Pigeon		Mo 09 - 12 Mo 13 - 15 Th 13 - 15 Th 09 - 12	0						" 00005677 (S) , 00004784 "
+2023	2	VCODE 252	Photography and Image Processing	VCODE 252_01	Department of Visual Communication Desig	2	2	0	3	6	Course	Abraham Pigeon		We 09 - 12	0						4784
+2023	2	VCODE 252-O	Photography and Image Processing	VCODE252-O_1	Department of Visual Communication Desig	2	1	0	2	5	Course	Abraham Pigeon		We 09 - 12	0						4784
+2023	2	VCODE 302-O	Visual Communication Design Studio IV	VCODE302-O_1	Department of Visual Communication Desig	2	8	0	6	11	Course	Abraham Pigeon		Tu 13 - 15 Tu 09 - 12 Fr 09 - 12 Fr 13 - 15	0						3851
+2023	2	VCODE 322	Analyzing Visual Texts	VCODE 322_01	Department of Visual Communication Desig	3	0	0	3	5	Course	Abraham Pigeon	F204	Mo 09 - 12	0						1021
+2023	2	VCODE 322	Analyzing Visual Texts	VCODE 322_02	Department of Visual Communication Desig	3	0	0	3	5	Course	Abraham Pigeon	F204	We 09 - 12	0						1021
+2023	2	VCODE 352-O	Video Production Design	VCODE352-O_1	Department of Visual Communication Desig	3	0	0	3	5	Course	Abraham Pigeon		Th 09 - 13	0						1264
