@@ -2,12 +2,10 @@
 import { computed, ref } from 'vue'
 import { useSchedulerStore } from '../stores/scheduler'
 const schedulerStore = useSchedulerStore()
-import { days, hours } from '../utils/utils.js'
+import CameraIcon from './icons/CameraIcon.vue'
+import html2canvas from 'html2canvas'
 
-// console.log('Alternative Schedules:', schedulerStore.alternativeSchedules)
-// console.log(schedulerStore.alternativeSchedules)
-
-const windowSize = 5 // Number of buttons to display at a time
+const windowSize = 5
 
 const displayedButtons = computed(() => {
   const current = schedulerStore.currentPage
@@ -60,10 +58,41 @@ function handlePageChange() {
     handleButtonClick(page - 1)
   }
 }
+
+async function captureSchedule() {
+  const scheduleElement = document.querySelector(
+    '.scheduler-grid-outer-outer-container',
+  )
+  if (!scheduleElement) return
+
+  const canvas = await html2canvas(scheduleElement)
+  const dataUrl = canvas.toDataURL('image/png')
+
+  const link = document.createElement('a')
+  link.href = dataUrl
+  link.download = `schedule_${schedulerStore.currentPage + 1}.png`
+
+  link.click()
+  link.remove()
+}
 </script>
 
 <template>
   <div class="schedule-container">
+    <div
+      class="camera"
+      @click="captureSchedule"
+      v-if="
+        schedulerStore.alternativeSchedules &&
+        schedulerStore.alternativeSchedules[0] &&
+        schedulerStore.alternativeSchedules[schedulerStore.currentPage]
+          .outerHTML
+      "
+    >
+      <div class="camera-icon">
+        <CameraIcon />
+      </div>
+    </div>
     <div
       class="go-to-page-button"
       v-if="
@@ -235,6 +264,37 @@ function handlePageChange() {
     rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 
+.schedule-container .camera {
+  position: absolute;
+  top: 0;
+  left: 2rem;
+  margin-top: 0.375rem;
+  cursor: pointer;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.schedule-container .camera .camera-icon {
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.schedule-container .camera:hover {
+  color: lightcoral;
+  /* color: lightsalmon; */
+}
+
+.schedule-container .camera:active {
+  transform: translateY(1px);
+}
+
 .schedule-container .go-to-page-button {
   position: absolute;
   top: 0;
@@ -308,6 +368,11 @@ function handlePageChange() {
   margin: 0;
   padding: 0;
 }
+/* .scheduler-grid-outer-outer-container {
+  padding: 0.25rem;
+  margin-top: -0.25rem;
+  background-color: #eaddca;
+} */
 
 .scheduler-grid-container {
   display: grid;

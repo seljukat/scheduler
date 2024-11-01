@@ -11,6 +11,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "html2canvas": "^1.4.1",
     "pinia": "^2.2.4",
     "vue": "^3.5.12",
     "vue-multiselect": "^3.1.0",

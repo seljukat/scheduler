@@ -80,10 +80,10 @@ function handleApply() {
       <div class="input-container">
         <input type="file" accept=".xls, .xlsx" @change="handleFileUpload" />
 
-        <div class="button-container">
+        <!-- <div class="button-container">
           <RightArrow class="icon" />
           <button>Upload</button>
-        </div>
+        </div> -->
       </div>
 
       <div class="input-container">
@@ -152,7 +152,7 @@ h1 {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  /* gap: 1rem; */
+  gap: 0.5rem;
 }
 
 .input-container {
@@ -254,7 +254,7 @@ h1 {
 .selected-courses h3 {
   font-weight: 500;
   border-bottom: 2px solid #eaddca;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.5rem;
 }
 .selected-courses p {
   font-size: 0.875rem;
@@ -264,7 +264,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   font-size: 0.625rem;
-  gap: 0.125rem;
+  gap: 0.25rem;
 }
 
 .selected-courses .course {

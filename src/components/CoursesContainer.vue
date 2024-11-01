@@ -79,16 +79,8 @@ h1 {
 
 .selected-courses .course {
   font-size: 0.625rem;
-  /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: center; */
   width: 110px;
   height: 110px;
-  /* width: fit-content;
-  height: fit-content; */
-  /* width: 6rem;
-  height: 6rem; */
-  /* margin-left: -15px; */
   padding: 10px;
   border-radius: 15px;
   border: 5px solid #eaddca;

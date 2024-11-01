@@ -250,7 +250,7 @@ const schedulerGridItems = (
 
       if (gridItemCount >= conflictMeasure) {
         schedulerGridContainer.childNodes.item(0).innerHTML =
-          `# ${alterGridNumber}`
+          `${alterGridNumber}`
         alternativeSchedules.push(schedulerGridContainer)
         lecturesToDisplay.push(displayList)
         alterGridNumber++
