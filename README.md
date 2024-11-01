@@ -60,7 +60,7 @@ Current version running at: [https://courscheduler.netlify.app/](https://coursch
 `GENERATED SCHEDULES:`
 ![schedules](https://github.com/user-attachments/assets/96e587ff-cfe0-49f6-b730-7c96b28d4fa0)
 
-`CHANGING SELECTED SCHEDULES:`
+`CHANGING SELECTED COURSES:`
 ![change-selected-courses](https://github.com/user-attachments/assets/ef8fcc9d-3be1-4b30-8f41-58fc71b4c7f8)
 
 `JUMPING DIRECTLY TO A SPECIFIC SCHEDULE:`
