@@ -89,6 +89,7 @@ const gridItemInnerHTML = (
   gridItem,
   gridItemNumber,
   gridItemContent,
+  alterGridCount,
 ) => {
   if (gridItemNumber === 1) {
     gridItem.innerHTML = `
@@ -116,21 +117,19 @@ const gridItemInnerHTML = (
   return gridItem
 }
 
-const alternativeSchedules = []
-
 const rowCount = 14
 const colCount = 6
 
-let alterGridCount = 1
-let alterSchedulesListCount = 1
-
 const schedulerGridItems = (
+  alternativeSchedules,
   alterSchedulesList,
   lecturesToDisplay,
   conflictMeasure,
   query,
+  alterGridCount,
+  alterSchedulesListCount,
 ) => {
-  useSchedulerStore().setAlternativeSchedules([])
+  // useSchedulerStore().setAlternativeSchedules([])
   if (alterSchedulesList !== undefined && alterSchedulesListCount < 2) {
     let alterGridNumber = 1
 
@@ -214,6 +213,7 @@ const schedulerGridItems = (
             gridItem,
             gridItemNumber,
             gridItemContent,
+            alterGridCount,
           )
           schedulerGridContainer?.appendChild(gridItem)
 
@@ -225,6 +225,7 @@ const schedulerGridItems = (
                 gridItem,
                 gridItemNumber,
                 gridItemContent,
+                alterGridCount,
               )
               schedulerGridContainer?.appendChild(gridItem)
             })
@@ -259,7 +260,7 @@ const schedulerGridItems = (
     alterSchedulesListCount++
   }
 
-  return alternativeSchedules
+  // return alternativeSchedules
 }
 
 const groupConsecutivePairs = arr => {
@@ -395,6 +396,8 @@ export function createAlternativeSchedules(queriedCourses, query) {
     },
   )
 
+  // console.log('filteredObjects', filteredObjects)
+
   const uniqueCodes = new Set()
   const uniqueObjects = []
 
@@ -433,25 +436,30 @@ export function createAlternativeSchedules(queriedCourses, query) {
   const conflictCoefficient = 1
   const conflictMeasure = Math.floor(gridItemLength * conflictCoefficient)
 
-  // const lecturesToDisplay = query.map(query => query.code)
-
   // console.log('combs', combs)
   // console.log('query', query)
-  // console.log('lecturesToDisplay', lecturesToDisplay)
-  // console.log('conflictMeasure', conflictMeasure)
 
+  let alternativeSchedules = []
   let lecturesToDisplay = []
 
+  let alterGridCount = 1
+  let alterSchedulesListCount = 1
+
   if (combs?.length > 0) {
-    const altScheds = schedulerGridItems(
+    schedulerGridItems(
+      alternativeSchedules,
       combs,
       lecturesToDisplay,
       conflictMeasure,
       query,
+      alterGridCount,
+      alterSchedulesListCount,
     )
-    // schedulerStore.setAlternativeSchedules(combs)
-    // return combs
+
+    // console.log('alternativeSchedules', alternativeSchedules)
+    // console.log('lecturesToDisplay', lecturesToDisplay)
+
     useSchedulerStore().setCoursesToDisplay(lecturesToDisplay)
-    return altScheds
+    return alternativeSchedules
   }
 }
