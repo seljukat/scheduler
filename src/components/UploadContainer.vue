@@ -95,7 +95,7 @@ function handleApply() {
             placeholder="Select courses"
             :multiple="true"
             :close-on-select="false"
-            :clear-on-select="false"
+            :clear-on-select="true"
             :preserve-search="true"
           />
         </div>
