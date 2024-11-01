@@ -1,11 +1,21 @@
 <script setup>
-import { ref } from 'vue'
+import { computed, ref } from 'vue'
 import { useSchedulerStore } from '../stores/scheduler'
 const schedulerStore = useSchedulerStore()
 import { days, hours } from '../utils/utils.js'
 
 // console.log('Alternative Schedules:', schedulerStore.alternativeSchedules)
 // console.log(schedulerStore.alternativeSchedules)
+
+const windowSize = 5 // Number of buttons to display at a time
+
+const displayedButtons = computed(() => {
+  const current = schedulerStore.currentPage
+  const total = schedulerStore.alternativeSchedules.length
+  const start = Math.max(0, current - Math.floor(windowSize / 2))
+  const end = Math.min(total, start + windowSize)
+  return Array.from({ length: end - start }, (_, i) => start + i)
+})
 
 function handleNext() {
   if (
@@ -33,11 +43,49 @@ function handleButtonClick(index) {
     schedulerStore.setCurrentPage(index)
   }
 }
+
+const goToPage = ref()
+
+function handlePageChange() {
+  const page = parseInt(goToPage.value)
+  if (page < 1) {
+    handleButtonClick(0)
+  } else if (page > schedulerStore.alternativeSchedules.length) {
+    handleButtonClick(schedulerStore.alternativeSchedules.length - 1)
+  }
+  // else {
+  //   handleButtonClick(page - 1)
+  // }
+  else if (page >= 1 && page <= schedulerStore.alternativeSchedules.length) {
+    handleButtonClick(page - 1)
+  }
+}
 </script>
 
 <template>
   <div class="schedule-container">
-    <!-- <div class="buttons-container"> -->
+    <div
+      class="go-to-page-button"
+      v-if="
+        schedulerStore.alternativeSchedules &&
+        schedulerStore.alternativeSchedules[0] &&
+        schedulerStore.alternativeSchedules[schedulerStore.currentPage]
+          .outerHTML
+      "
+    >
+      <div class="go-to-page">
+        <label for="go-to-page">go to:{{ ' ' }}</label>
+        <input
+          id="go-to-page"
+          class="button-content go-to-page"
+          type="number"
+          min="1"
+          :max="schedulerStore.alternativeSchedules.length - 1"
+          v-model="goToPage"
+          @input="handlePageChange"
+        />
+      </div>
+    </div>
     <div
       class="buttons"
       v-if="
@@ -50,10 +98,11 @@ function handleButtonClick(index) {
       <div
         class="button go-to-first-page"
         @click="handleButtonClick(-2)"
-        :aria-disabled="
-          schedulerStore.currentPage === 0 ||
-          schedulerStore.alternativeSchedules.length === 1
-        "
+        :class="{
+          'disabled-button arrow':
+            schedulerStore.currentPage === 0 ||
+            schedulerStore.alternativeSchedules.length === 1,
+        }"
       >
         <div class="button-content go-to-first-page">
           {{ '<<' }}
@@ -62,10 +111,11 @@ function handleButtonClick(index) {
       <div
         class="button prev"
         @click="handlePrev"
-        :aria-disabled="
-          schedulerStore.currentPage === 0 ||
-          schedulerStore.alternativeSchedules.length === 1
-        "
+        :class="{
+          'disabled-button arrow':
+            schedulerStore.currentPage === 0 ||
+            schedulerStore.alternativeSchedules.length === 1,
+        }"
       >
         <div class="button-content prev">
           {{ '<' }}
@@ -75,46 +125,29 @@ function handleButtonClick(index) {
         class="middle-buttons"
         v-if="schedulerStore.alternativeSchedules.length > 0"
       >
-        <div
-          v-for="(
-            alternativeSchedule, index
-          ) in schedulerStore.alternativeSchedules"
-          :key="index"
-        >
+        <div v-for="index in displayedButtons" :key="index">
           <div
             class="button"
+            :class="{
+              'current-button disabled-button':
+                index === schedulerStore.currentPage,
+            }"
             @click="handleButtonClick(index)"
             :aria-disabled="schedulerStore.currentPage === index"
           >
-            <div class="button-content">
-              {{ index + 1 }}
-            </div>
+            <div class="button-content">{{ index + 1 }}</div>
           </div>
         </div>
       </div>
-      <!-- <div v-if="schedulerStore.alternativeSchedules.length === 1">
-        <div
-          class="button"
-          @click="handleButtonClick"
-          :aria-disabled="
-            schedulerStore.currentPage === 0 ||
-            schedulerStore.alternativeSchedules.length === 1
-          "
-        >
-          <div class="button-content prev">
-            {{ schedulerStore.alternativeSchedules.length }}
-          </div>
-        </div>
-      </div> -->
-      <!-- <div v-else-if="schedulerStore.alternativeSchedules.length > 1"></div> -->
       <div
         class="button next"
         @click="handleNext"
-        :aria-disabled="
-          schedulerStore.currentPage ===
-            schedulerStore.alternativeSchedules.length - 1 ||
-          schedulerStore.alternativeSchedules.length === 1
-        "
+        :class="{
+          'disabled-button arrow':
+            schedulerStore.currentPage ===
+              schedulerStore.alternativeSchedules.length - 1 ||
+            schedulerStore.alternativeSchedules.length === 1,
+        }"
       >
         <div class="button-content next">
           {{ '>' }}
@@ -123,28 +156,18 @@ function handleButtonClick(index) {
       <div
         class="button go-to-last-page"
         @click="handleButtonClick(-1)"
-        :aria-disabled="
-          schedulerStore.currentPage ===
-            schedulerStore.alternativeSchedules.length - 1 ||
-          schedulerStore.alternativeSchedules.length === 1
-        "
+        :class="{
+          'disabled-button arrow':
+            schedulerStore.currentPage ===
+              schedulerStore.alternativeSchedules.length - 1 ||
+            schedulerStore.alternativeSchedules.length === 1,
+        }"
       >
         <div class="button-content go-to-last-page">
           {{ '>>' }}
         </div>
       </div>
     </div>
-    <!-- </div> -->
-    <!-- <div v-if="schedulerStore.alternativeSchedules">
-      <div
-        v-if="schedulerStore.alternativeSchedules[schedulerStore.currentPage]"
-      >
-        <div
-          v-if="
-            schedulerStore.alternativeSchedules[schedulerStore.currentPage]
-              .outerHTML
-          "
-        > -->
     <div
       class="scheduler-grid-outer-outer-container"
       v-if="
@@ -162,18 +185,6 @@ function handleButtonClick(index) {
         "
       ></div>
     </div>
-    <!-- </div>
-      </div>
-    </div> -->
-    <!-- <div v-else>no schedules</div> -->
-    <!-- <div v-if="alternativeSchedules">
-      <div v-if="alternativeSchedules[0]">
-        <div v-if="alternativeSchedules[0].outerHTML">
-          <div v-html="alternativeSchedules[0].outerHTML"></div>
-        </div>
-        <div v-else>no schedules</div>
-      </div>
-    </div> -->
   </div>
 </template>
 
@@ -185,15 +196,10 @@ function handleButtonClick(index) {
   height: 100%;
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
   align-items: center;
   position: relative;
   padding: 0.75rem;
 }
-
-/* .schedule-container .buttons-container {
-  display: flex;
-} */
 
 .schedule-container .buttons,
 .schedule-container .middle-buttons {
@@ -211,7 +217,6 @@ function handleButtonClick(index) {
   font-size: 1.5rem;
   border-radius: 50%;
   border: 2px solid #eaddca;
-  /* background-color: #eaddca; */
   background-color: #ffffff;
   color: #eaddca;
   cursor: pointer;
@@ -230,6 +235,36 @@ function handleButtonClick(index) {
     rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 
+.schedule-container .go-to-page-button {
+  position: absolute;
+  top: 0;
+  right: 2.75rem;
+  margin-top: 0.375rem;
+}
+
+.schedule-container .go-to-page-button label {
+  color: white;
+  font-weight: 900;
+}
+
+.schedule-container .go-to-page-button input {
+  width: 2.5rem;
+}
+
+.schedule-container .current-button {
+  border: 2px solid #ffffff;
+  background-color: #eaddca;
+  color: white;
+}
+
+.schedule-container .disabled-button,
+.schedule-container .disabled-button.arrow {
+  pointer-events: none;
+}
+.schedule-container .disabled-button.arrow {
+  opacity: 0.5;
+}
+
 .schedule-container .middle-buttons .button {
   font-size: 1rem;
 }
@@ -238,7 +273,6 @@ function handleButtonClick(index) {
 }
 .schedule-container .button:hover {
   border: 2px solid #ffffff;
-  /* background-color: #ffffff; */
   background-color: #eaddca;
   color: white;
 }
@@ -266,29 +300,9 @@ function handleButtonClick(index) {
   margin-right: -0.125rem;
 }
 
-/* .schedule-container .button:hover {
-  background-color: white;
-  color: #eaddca;
-  border: 1px solid #eaddca;
-} */
-
-/* .schedule-container .buttons {
-  position: absolute;
-  top: 0;
-  right: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  padding: 20px;
-} */
-
 .scheduler-grid-outer-outer-container,
 .scheduler-grid-outer-container,
 .scheduler-grid-container {
-  /* display: flex;
-  justify-content: center;
-  align-items: center; */
-  /* width: 100%; */
   width: 100%;
   height: 100%;
   margin: 0;
@@ -301,9 +315,6 @@ function handleButtonClick(index) {
   grid-template-rows: repeat(14, 1fr);
   gap: 1px;
   border-radius: 30px;
-  /* padding: 10px;
-  margin: 10px; */
-  /* margin-top: -50px; */
 }
 
 .scheduler-grid-item {
