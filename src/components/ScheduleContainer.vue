@@ -109,7 +109,7 @@ async function captureSchedule() {
           class="button-content go-to-page"
           type="number"
           min="1"
-          :max="schedulerStore.alternativeSchedules.length - 1"
+          :max="schedulerStore.alternativeSchedules.length"
           v-model="goToPage"
           @input="handlePageChange"
         />
