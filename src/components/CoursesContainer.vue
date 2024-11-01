@@ -71,9 +71,10 @@ h1 {
 .selected-courses {
   width: 100%;
   display: flex;
-  gap: 0.5rem;
-  justify-content: space-between;
-
+  /* gap: 0.5rem;
+  justify-content: space-between; */
+  column-gap: 1.25rem;
+  row-gap: 0.5rem;
   flex-wrap: wrap;
 }
 
