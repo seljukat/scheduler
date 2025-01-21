@@ -6,6 +6,7 @@ import * as XLSX from 'xlsx'
 
 export const days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
 export const hours = [
+  '08:00',
   '09:00',
   '10:00',
   '11:00',
@@ -22,19 +23,20 @@ export const hours = [
 ]
 export const dayToIndex = { 'Mo': 1, 'Tu': 2, 'We': 3, 'Th': 4, 'Fr': 5 }
 export const hourToIndex = {
-  '09': 1,
-  '10': 2,
-  '11': 3,
-  '12': 4,
-  '13': 5,
-  '14': 6,
-  '15': 7,
-  '16': 8,
-  '17': 9,
-  '18': 10,
-  '19': 11,
-  '20': 12,
-  '21': 13,
+  '08': 1,
+  '09': 2,
+  '10': 3,
+  '11': 4,
+  '12': 5,
+  '13': 6,
+  '14': 7,
+  '15': 8,
+  '16': 9,
+  '17': 10,
+  '18': 11,
+  '19': 12,
+  '20': 13,
+  '21': 14,
 }
 export const bgColors = [
   '#ADD8E6', // blue
